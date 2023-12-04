@@ -2455,3 +2455,1668 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.04-22.17.54:932][ 57]AssetCheck: New page: Asset Save: multiple assets
 [2023.12.04-22.17.54:932][ 57]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay
 [2023.12.04-22.17.54:932][ 57]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI
+[2023.12.04-22.21.15:588][463]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.21.15:666][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.12.04-22.21.25:314][ 81]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.21.25:394][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.12.04-22.22.18:389][486]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.22.18:471][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.04-22.23.03:504][140]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.23.03:585][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.12.04-22.23.34:696][834]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.23.34:773][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.12.04-22.23.47:237][ 88]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.23.47:318][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.04-22.26.49:653][354]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.26.49:735][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.12.04-22.27.02:270][199]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.12.04-22.27.02:276][199]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2023.12.04-22.27.02:282][199]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2023.12.04-22.27.02:298][200]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2023.12.04-22.27.11:680][987]LogContentBrowser: Attempting asset rename: NewAnimMontage -> Kraken_Montage
+[2023.12.04-22.27.11:684][987]LogContentBrowser: End creating deferred item NewAnimMontage
+[2023.12.04-22.27.30:821][679]LogContentBrowser: Attempting asset rename: Kraken_Montage -> Attack_Montage
+[2023.12.04-22.27.30:975][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-22.27.31:020][679]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/Attack_Montage
+[2023.12.04-22.27.31:020][679]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Attack_Montage111165A54712020E202A019AC3894FE8.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/Attack_Montage.uasset'
+[2023.12.04-22.27.31:029][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 10.1 sec)
+[2023.12.04-22.27.31:065][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.04-22.27.31:089][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.04-22.27.31:109][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.12.04-22.27.31:115][679]AssetCheck: New page: Asset Save: Attack_Montage
+[2023.12.04-22.27.31:115][679]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/Attack_Montage.Attack_Montage
+[2023.12.04-22.28.00:078][394]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1663)].
+[2023.12.04-22.28.00:078][394]LogContentBrowser: Attempting asset rename: Attack_Montage -> SAttack_Montage
+[2023.12.04-22.28.00:183][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-22.28.00:183][394]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/SAttack_Montage
+[2023.12.04-22.28.00:184][394]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/SAttack_MontageDE25A38A4D382EFA617A0195F7CE36AC.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/SAttack_Montage.uasset'
+[2023.12.04-22.28.00:188][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 5 ms (total: 10.1 sec)
+[2023.12.04-22.28.00:231][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.04-22.28.00:269][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.12.04-22.28.00:289][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.12.04-22.28.00:315][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.12.04-22.28.03:361][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto2
+[2023.12.04-22.28.03:361][394]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay_Auto2A85E086F41616E9A199503869E6CFF4E.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto2.umap'
+[2023.12.04-22.28.03:397][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay' took 3.100
+[2023.12.04-22.28.03:397][394]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.100
+[2023.12.04-22.28.03:397][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI] ([2] browsable assets)...
+[2023.12.04-22.28.03:404][394]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI]
+[2023.12.04-22.28.03:404][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI]
+[2023.12.04-22.28.03:408][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto2
+[2023.12.04-22.28.03:408][394]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI_Auto29980D27F4B77F576FF96059768A0035F.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto2.uasset'
+[2023.12.04-22.28.03:408][394]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.12.04-22.28.03:455][395]AssetCheck: New page: Asset Save: SAttack_Montage
+[2023.12.04-22.28.03:455][395]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/SAttack_Montage.SAttack_Montage
+[2023.12.04-22.28.14:868][280]LogContentBrowser: Attempting asset rename: SAttack_Montage -> ShortRangeAttack_Montage
+[2023.12.04-22.28.14:972][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-22.28.15:016][280]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage
+[2023.12.04-22.28.15:016][280]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/ShortRangeAttack_Montage8E1675EA4D3D132EE0DA468ED397E773.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage.uasset'
+[2023.12.04-22.28.15:025][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 10.2 sec)
+[2023.12.04-22.28.15:065][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.12.04-22.28.15:086][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.12.04-22.28.15:106][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.04-22.28.15:111][280]AssetCheck: New page: Asset Save: ShortRangeAttack_Montage
+[2023.12.04-22.28.15:112][280]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage.ShortRangeAttack_Montage
+[2023.12.04-22.28.21:018][398]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage.ShortRangeAttack_Montage
+[2023.12.04-22.28.21:018][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.28.21:018][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.28.21:024][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-22.28.21:095][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.28.21:095][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.28.21:212][398]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.12.04-22.29.05:122][ 91]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.12.04-22.29.06:444][239]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.12.04-22.29.11:923][858]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Kraken/Animations/KRAKEN_smashAttackForward.KRAKEN_smashAttackForward
+[2023.12.04-22.29.12:142][876]LogAnimationCompression: Display: Storing compressed animation data for /Game/Kraken/Animations/KRAKEN_smashAttackForward.KRAKEN_smashAttackForward, at AnimationSequence/52e74fe001e4979ff4c0f23366f9dbbf77eec616
+[2023.12.04-22.29.22:547][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.29.22:548][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.29.22:564][ 63]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2023.12.04-22.29.33:647][121]LogSlate: Window 'Create New Animation Object' being destroyed
+[2023.12.04-22.29.46:901][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-22.29.46:952][812]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage
+[2023.12.04-22.29.46:952][812]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/ShortRangeAttack_MontageE8C41AF24450DC2C1043099617C2697D.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage.uasset'
+[2023.12.04-22.29.46:956][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 10.2 sec)
+[2023.12.04-22.29.46:961][812]AssetCheck: New page: Asset Save: ShortRangeAttack_Montage
+[2023.12.04-22.29.46:961][812]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ShortRangeAttack_Montage.ShortRangeAttack_Montage
+[2023.12.04-22.29.47:849][912]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.29.47:849][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.29.47:889][912]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.29.47:889][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.29.47:892][912]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.29.47:892][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.29.47:909][912]LogViewport: Scene viewport resized to 476x426, mode Windowed.
+[2023.12.04-22.29.47:936][913]LogViewport: Scene viewport resized to 476x419, mode Windowed.
+[2023.12.04-22.29.47:948][914]LogViewport: Scene viewport resized to 476x416, mode Windowed.
+[2023.12.04-22.29.47:960][915]LogViewport: Scene viewport resized to 476x415, mode Windowed.
+[2023.12.04-22.29.47:971][916]LogViewport: Scene viewport resized to 476x412, mode Windowed.
+[2023.12.04-22.29.47:982][917]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.12.04-22.31.17:560][788]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.31.17:643][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.04-22.31.18:926][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-22.31.18:931][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-22.31.18:931][873]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 10:31:18 AM)
+[2023.12.04-22.31.18:951][873]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.31.20:369][873]LogPlayLevel: PIE: StaticDuplicateObject took: (1.418037s)
+[2023.12.04-22.31.20:369][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.418067s)
+[2023.12.04-22.31.20:369][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.31.20:369][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.31.20:369][873]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-22.31.20:373][873]LogPlayLevel: PIE: World Init took: (0.004478s)
+[2023.12.04-22.31.20:400][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.12.04-22.31.20:404][873]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-22.31.20:404][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-22.31.20:404][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-22.31.20:405][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-22.31.20:405][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-22.31.20:405][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-22.31.20:406][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-22.31.20:416][873]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-22.31.20:416][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-22.31.20:416][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-22.31.20:416][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-22.31.20:417][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.04-22.31.20:417][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.04-22.31.20:418][873]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.04-22.31.20:418][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.04-22.31.20:418][873]LogAudio: Display: Audio Device (ID: 11) registered with world 'DemoMapDay'.
+[2023.12.04-22.31.20:418][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.04-22.31.20:418][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.04-22.31.20:426][873]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-22.31.20:692][873]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-16.31.20
+[2023.12.04-22.31.20:699][873]LogWorld: Bringing up level for play took: 0.272728
+[2023.12.04-22.31.20:700][873]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.12.04-22.31.20:718][873]PIE: Server logged in
+[2023.12.04-22.31.20:718][873]PIE: Play in editor total start time 1.787 seconds.
+[2023.12.04-22.32.22:965][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.32.22:965][151]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.32.22:970][151]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.32.23:005][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.32.23:019][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-22.32.23:031][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.32.23:096][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-22.32.23:097][151]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.04-22.32.23:097][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.04-22.32.23:098][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.04-22.32.23:101][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.32.23:155][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.12.04-22.32.23:281][152]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.12.04-22.33.34:099][681]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.33.34:183][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.12.04-22.34.27:357][928]BlueprintLog: New page: Compile ABP_Kraken
+[2023.12.04-22.34.27:394][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.04-22.35.20:945][ 69]LogViewport: Scene viewport resized to 392x175, mode Windowed.
+[2023.12.04-22.35.27:263][461]Cmd: DELETE
+[2023.12.04-22.35.27:263][461]Cmd: ACTOR DELETE
+[2023.12.04-22.35.27:549][461]LogEditorActor: Deleted Actor: BP_PatrolDummy_C
+[2023.12.04-22.35.27:599][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.12.04-22.35.27:603][461]LogEditorActor: Deleted 1 Actors (0.340 secs)
+[2023.12.04-22.35.28:467][540]Cmd: DELETE
+[2023.12.04-22.35.28:467][540]Cmd: ACTOR DELETE
+[2023.12.04-22.35.28:693][540]LogEditorActor: Deleted Actor: BP_PatrolPath_C
+[2023.12.04-22.35.28:721][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.04-22.35.28:726][540]LogEditorActor: Deleted 1 Actors (0.258 secs)
+[2023.12.04-22.36.45:452][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.04-22.36.45:478][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.12.04-22.36.46:944][ 59]LogSlate: Window 'Save Content' being destroyed
+[2023.12.04-22.36.46:948][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-22.36.47:013][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.04-22.36.50:032][ 59]LogSavePackage: Moving output files for package: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.04-22.36.50:033][ 59]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay7724C80B4A2FD6C062717AADA97D617D.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/ModularGothicFantasyEnvironment/Maps/DemoMapDay.umap'
+[2023.12.04-22.36.50:073][ 59]LogFileHelpers: Saving map 'DemoMapDay' took 3.096
+[2023.12.04-22.36.50:093][ 59]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ABP_Kraken
+[2023.12.04-22.36.50:093][ 59]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/ABP_KrakenB3E0FC984AABE67C0F9F6D81897248B2.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/ABP_Kraken.uasset'
+[2023.12.04-22.36.50:111][ 59]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI
+[2023.12.04-22.36.50:111][ 59]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI639EEF1D46EEBA4C156D6E8ACCAA0BED.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.uasset'
+[2023.12.04-22.36.50:116][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.16 sec (total: 13.4 sec)
+[2023.12.04-22.36.50:153][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.04-22.36.50:153][ 59]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay
+[2023.12.04-22.36.50:153][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI
+[2023.12.04-22.36.50:153][ 59]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/ABP_Kraken.ABP_Kraken
+[2023.12.04-22.37.21:031][281]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.37.21:122][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.12.04-22.37.22:371][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-22.37.22:376][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-22.37.22:376][371]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 10:37:22 AM)
+[2023.12.04-22.37.22:416][371]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.37.23:749][371]LogPlayLevel: PIE: StaticDuplicateObject took: (1.333310s)
+[2023.12.04-22.37.23:749][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.333348s)
+[2023.12.04-22.37.23:749][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.37.23:749][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.37.23:749][371]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-22.37.23:754][371]LogPlayLevel: PIE: World Init took: (0.005059s)
+[2023.12.04-22.37.23:791][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.04-22.37.23:794][371]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-22.37.23:794][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-22.37.23:794][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-22.37.23:794][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-22.37.23:794][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-22.37.23:794][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-22.37.23:796][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-22.37.23:805][371]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-22.37.23:805][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-22.37.23:805][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-22.37.23:805][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-22.37.23:806][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.04-22.37.23:806][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.04-22.37.23:807][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.04-22.37.23:807][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.04-22.37.23:807][371]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.04-22.37.23:807][371]LogAudio: Display: Audio Device (ID: 12) registered with world 'DemoMapDay'.
+[2023.12.04-22.37.23:807][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.04-22.37.23:814][371]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-22.37.24:097][371]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-16.37.24
+[2023.12.04-22.37.24:103][371]LogWorld: Bringing up level for play took: 0.288545
+[2023.12.04-22.37.24:105][371]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.12.04-22.37.24:124][371]PIE: Server logged in
+[2023.12.04-22.37.24:124][371]PIE: Play in editor total start time 1.748 seconds.
+[2023.12.04-22.38.01:545][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.38.01:545][757]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.38.01:550][757]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.38.01:585][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.38.01:601][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-22.38.01:614][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.38.01:673][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-22.38.01:674][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.04-22.38.01:674][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.04-22.38.01:675][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.04-22.38.01:678][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.38.01:740][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.04-22.38.01:869][758]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.12.04-22.38.17:681][538]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.38.17:791][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.12.04-22.41.25:455][779]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.41.25:542][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.12.04-22.43.47:912][500]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.43.48:003][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.04-22.43.51:000][681]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-22.43.51:006][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-22.43.51:006][681]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 10:43:51 AM)
+[2023.12.04-22.43.51:044][681]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.43.52:406][681]LogPlayLevel: PIE: StaticDuplicateObject took: (1.361730s)
+[2023.12.04-22.43.52:406][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.361763s)
+[2023.12.04-22.43.52:406][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.43.52:406][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.43.52:407][681]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-22.43.52:411][681]LogPlayLevel: PIE: World Init took: (0.004564s)
+[2023.12.04-22.43.52:440][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.04-22.43.52:445][681]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-22.43.52:445][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-22.43.52:445][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-22.43.52:445][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-22.43.52:445][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-22.43.52:445][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-22.43.52:447][681]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-22.43.52:456][681]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-22.43.52:457][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-22.43.52:457][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-22.43.52:457][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-22.43.52:457][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.04-22.43.52:457][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.04-22.43.52:458][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.04-22.43.52:458][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.04-22.43.52:458][681]LogInit: FAudioDevice initialized with ID 13.
+[2023.12.04-22.43.52:458][681]LogAudio: Display: Audio Device (ID: 13) registered with world 'DemoMapDay'.
+[2023.12.04-22.43.52:458][681]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.04-22.43.52:466][681]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-22.43.52:735][681]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-16.43.52
+[2023.12.04-22.43.52:742][681]LogWorld: Bringing up level for play took: 0.275508
+[2023.12.04-22.43.52:743][681]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.12.04-22.43.52:760][681]PIE: Server logged in
+[2023.12.04-22.43.52:760][681]PIE: Play in editor total start time 1.754 seconds.
+[2023.12.04-22.44.49:784][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.44.49:785][992]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.44.49:789][992]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.44.49:824][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.44.49:842][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-22.44.49:853][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.44.49:893][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-22.44.49:893][992]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.04-22.44.49:893][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.04-22.44.49:894][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.04-22.44.49:897][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.44.49:989][992]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.12.04-22.44.50:116][993]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.12.04-22.46.32:392][880]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.46.32:476][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.04-22.46.45:918][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-22.46.45:923][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-22.46.45:923][164]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 10:46:45 AM)
+[2023.12.04-22.46.45:951][164]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.46.47:297][164]LogPlayLevel: PIE: StaticDuplicateObject took: (1.346097s)
+[2023.12.04-22.46.47:297][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.346127s)
+[2023.12.04-22.46.47:297][164]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.46.47:297][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.46.47:297][164]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-22.46.47:301][164]LogPlayLevel: PIE: World Init took: (0.004342s)
+[2023.12.04-22.46.47:329][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.04-22.46.47:332][164]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-22.46.47:332][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-22.46.47:332][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-22.46.47:333][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-22.46.47:333][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-22.46.47:333][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-22.46.47:334][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-22.46.47:343][164]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-22.46.47:343][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-22.46.47:343][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-22.46.47:343][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-22.46.47:344][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.04-22.46.47:344][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.04-22.46.47:345][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.04-22.46.47:345][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.04-22.46.47:345][164]LogInit: FAudioDevice initialized with ID 14.
+[2023.12.04-22.46.47:345][164]LogAudio: Display: Audio Device (ID: 14) registered with world 'DemoMapDay'.
+[2023.12.04-22.46.47:345][164]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.04-22.46.47:352][164]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-22.46.47:613][164]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-16.46.47
+[2023.12.04-22.46.47:619][164]LogWorld: Bringing up level for play took: 0.266475
+[2023.12.04-22.46.47:621][164]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.12.04-22.46.47:637][164]PIE: Server logged in
+[2023.12.04-22.46.47:638][164]PIE: Play in editor total start time 1.715 seconds.
+[2023.12.04-22.46.53:103][742]LogShaderCompilers: Display: ================================================
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: Total job queries 168, among them cache hits 22 (13.10%)
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 123 distinct outputs (84.25%)
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: RAM used: 407.29 KiB of 1.60 GiB budget. Usage: 0.02%
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.04-22.46.53:104][742]LogShaderCompilers: Display: ================================================
+[2023.12.04-22.47.22:881][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.47.22:881][246]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.47.22:886][246]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.47.22:922][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.47.22:941][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-22.47.22:952][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.47.23:013][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.47.23:023][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.04-22.47.23:023][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.04-22.47.23:024][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.04-22.47.23:088][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.12.04-22.47.23:210][247]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.12.04-22.47.39:586][983]LogDerivedDataCache: C:/Users/Sreedhar Ramesh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8173 files in 10297 folders with total size 1185 MiB.
+[2023.12.04-22.48.49:835][  4]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.48.49:923][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.04-22.48.51:030][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-22.48.51:035][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-22.48.51:035][ 76]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 10:48:51 AM)
+[2023.12.04-22.48.51:051][ 76]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.48.52:395][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (1.343612s)
+[2023.12.04-22.48.52:395][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.343642s)
+[2023.12.04-22.48.52:395][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.48.52:395][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.48.52:395][ 76]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-22.48.52:399][ 76]LogPlayLevel: PIE: World Init took: (0.004393s)
+[2023.12.04-22.48.52:428][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.04-22.48.52:431][ 76]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-22.48.52:431][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-22.48.52:431][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-22.48.52:431][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-22.48.52:431][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-22.48.52:431][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-22.48.52:433][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-22.48.52:442][ 76]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-22.48.52:443][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-22.48.52:443][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-22.48.52:443][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-22.48.52:443][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.04-22.48.52:443][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.04-22.48.52:444][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.04-22.48.52:444][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.04-22.48.52:444][ 76]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.04-22.48.52:444][ 76]LogAudio: Display: Audio Device (ID: 15) registered with world 'DemoMapDay'.
+[2023.12.04-22.48.52:444][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.04-22.48.52:452][ 76]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-22.48.52:712][ 76]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-16.48.52
+[2023.12.04-22.48.52:718][ 76]LogWorld: Bringing up level for play took: 0.266398
+[2023.12.04-22.48.52:720][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.12.04-22.48.52:736][ 76]PIE: Server logged in
+[2023.12.04-22.48.52:737][ 76]PIE: Play in editor total start time 1.702 seconds.
+[2023.12.04-22.49.51:891][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.49.51:891][928]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.49.51:895][928]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-22.49.51:930][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.49.51:950][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-22.49.51:968][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-22.49.52:002][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-22.49.52:020][928]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.04-22.49.52:020][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.04-22.49.52:022][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.04-22.49.52:099][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.04-22.49.52:225][929]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.12.04-22.50.17:305][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.12.04-22.50.20:395][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto3
+[2023.12.04-22.50.20:395][  4]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay_Auto36C79C501476E68077550EAB17E0DCE75.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto3.umap'
+[2023.12.04-22.50.20:436][  4]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay' took 3.162
+[2023.12.04-22.50.20:436][  4]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.162
+[2023.12.04-22.50.20:436][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI] ([2] browsable assets)...
+[2023.12.04-22.50.20:453][  4]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI]
+[2023.12.04-22.50.20:454][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI]
+[2023.12.04-22.50.20:460][  4]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto3
+[2023.12.04-22.50.20:460][  4]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI_Auto3AB9702FC4713C2F6348B089CD20CE584.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto3.uasset'
+[2023.12.04-22.50.20:460][  4]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.12.04-22.52.29:656][551]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.52.29:748][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.12.04-22.54.21:789][965]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-22.54.21:870][965]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-22.54.29:114][732]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-22.54.29:201][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-22.59.54:042][290]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-22.59.54:140][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.04-22.59.55:258][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-22.59.55:263][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-22.59.55:264][360]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 10:59:55 AM)
+[2023.12.04-22.59.55:264][360]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-22.59.56:593][360]LogPlayLevel: PIE: StaticDuplicateObject took: (1.329599s)
+[2023.12.04-22.59.56:593][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.329626s)
+[2023.12.04-22.59.56:593][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-22.59.56:593][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-22.59.56:594][360]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-22.59.56:598][360]LogPlayLevel: PIE: World Init took: (0.004446s)
+[2023.12.04-22.59.56:640][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.04-22.59.56:642][360]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-22.59.56:642][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-22.59.56:643][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-22.59.56:643][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-22.59.56:643][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-22.59.56:643][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-22.59.56:645][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-22.59.56:654][360]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-22.59.56:655][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-22.59.56:655][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-22.59.56:655][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-22.59.56:655][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.04-22.59.56:655][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.04-22.59.56:656][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.04-22.59.56:656][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.04-22.59.56:656][360]LogInit: FAudioDevice initialized with ID 16.
+[2023.12.04-22.59.56:656][360]LogAudio: Display: Audio Device (ID: 16) registered with world 'DemoMapDay'.
+[2023.12.04-22.59.56:656][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.04-22.59.56:664][360]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-22.59.56:930][360]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-16.59.56
+[2023.12.04-22.59.56:937][360]LogWorld: Bringing up level for play took: 0.272456
+[2023.12.04-22.59.56:938][360]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.12.04-22.59.56:955][360]PIE: Server logged in
+[2023.12.04-22.59.56:955][360]PIE: Play in editor total start time 1.692 seconds.
+[2023.12.04-23.00.41:055][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.00.41:055][533]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.00.41:059][533]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.00.41:093][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.00.41:121][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.00.41:132][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.00.41:205][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.00.41:216][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.04-23.00.41:216][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.04-23.00.41:217][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.04-23.00.41:286][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.04-23.00.41:364][534]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.12.04-23.01.06:493][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.04-23.01.09:555][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto4
+[2023.12.04-23.01.09:556][635]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay_Auto4DBDC57F145D3796EA086A8851D64C96C.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto4.umap'
+[2023.12.04-23.01.09:596][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay' took 3.126
+[2023.12.04-23.01.09:596][635]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.126
+[2023.12.04-23.01.09:596][635]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI] ([2] browsable assets)...
+[2023.12.04-23.01.09:610][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI]
+[2023.12.04-23.01.09:610][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI]
+[2023.12.04-23.01.09:617][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto4
+[2023.12.04-23.01.09:617][635]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI_Auto4A9ADEAAE4F60E6A5D6390B8B539BC4A2.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto4.uasset'
+[2023.12.04-23.01.09:617][635]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.12.04-23.01.21:601][733]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.01.21:606][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.01.21:606][733]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:01:21 AM)
+[2023.12.04-23.01.21:606][733]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.01.22:949][733]LogPlayLevel: PIE: StaticDuplicateObject took: (1.342161s)
+[2023.12.04-23.01.22:949][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.342187s)
+[2023.12.04-23.01.22:949][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.01.22:949][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.01.22:949][733]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.01.22:954][733]LogPlayLevel: PIE: World Init took: (0.005356s)
+[2023.12.04-23.01.22:983][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.12.04-23.01.22:984][733]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.01.22:984][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.01.22:984][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.01.22:985][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.01.22:985][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.01.22:985][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.01.22:986][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.01.22:996][733]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.01.22:996][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.01.22:996][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.01.22:996][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.01.22:996][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.12.04-23.01.22:996][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.12.04-23.01.22:998][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.12.04-23.01.22:998][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.12.04-23.01.22:998][733]LogInit: FAudioDevice initialized with ID 17.
+[2023.12.04-23.01.22:998][733]LogAudio: Display: Audio Device (ID: 17) registered with world 'DemoMapDay'.
+[2023.12.04-23.01.22:998][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.04-23.01.23:005][733]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.01.23:266][733]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.01.23
+[2023.12.04-23.01.23:272][733]LogWorld: Bringing up level for play took: 0.266473
+[2023.12.04-23.01.23:274][733]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.12.04-23.01.23:290][733]PIE: Server logged in
+[2023.12.04-23.01.23:291][733]PIE: Play in editor total start time 1.684 seconds.
+[2023.12.04-23.01.24:740][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.01.24:740][823]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.01.24:745][823]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.01.24:780][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.01.24:790][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.01.24:801][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.01.24:829][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.01.24:859][823]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.04-23.01.24:859][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.04-23.01.24:860][823]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.04-23.01.24:928][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.12.04-23.01.25:004][824]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.12.04-23.01.40:226][523]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.01.40:324][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.12.04-23.02.01:127][346]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.02.01:230][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.04-23.02.24:552][659]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.02.24:661][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.12.04-23.02.29:918][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.02.29:923][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.02.29:923][ 57]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:02:29 AM)
+[2023.12.04-23.02.29:923][ 57]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.02.31:267][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (1.344273s)
+[2023.12.04-23.02.31:267][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.344300s)
+[2023.12.04-23.02.31:267][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.02.31:268][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.02.31:268][ 57]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.02.31:272][ 57]LogPlayLevel: PIE: World Init took: (0.004356s)
+[2023.12.04-23.02.31:320][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.04-23.02.31:324][ 57]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.02.31:324][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.02.31:324][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.02.31:325][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.02.31:325][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.02.31:325][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.02.31:327][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.02.31:336][ 57]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.02.31:336][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.02.31:336][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.02.31:336][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.02.31:338][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.12.04-23.02.31:338][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.12.04-23.02.31:338][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.12.04-23.02.31:338][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.12.04-23.02.31:338][ 57]LogInit: FAudioDevice initialized with ID 18.
+[2023.12.04-23.02.31:338][ 57]LogAudio: Display: Audio Device (ID: 18) registered with world 'DemoMapDay'.
+[2023.12.04-23.02.31:338][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.04-23.02.31:346][ 57]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.02.31:598][ 57]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.02.31
+[2023.12.04-23.02.31:604][ 57]LogWorld: Bringing up level for play took: 0.257591
+[2023.12.04-23.02.31:606][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.12.04-23.02.31:622][ 57]PIE: Server logged in
+[2023.12.04-23.02.31:623][ 57]PIE: Play in editor total start time 1.7 seconds.
+[2023.12.04-23.03.35:721][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.03.35:721][597]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.03.35:726][597]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.03.35:762][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.03.35:772][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.03.35:783][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.03.35:859][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.03.35:859][597]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.04-23.03.35:859][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.04-23.03.35:860][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.04-23.03.35:926][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.04-23.03.36:055][598]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.12.04-23.03.53:034][546]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.03.53:128][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.12.04-23.03.54:104][616]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.03.54:109][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.03.54:109][616]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:03:54 AM)
+[2023.12.04-23.03.54:134][616]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.03.55:477][616]LogPlayLevel: PIE: StaticDuplicateObject took: (1.342773s)
+[2023.12.04-23.03.55:477][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.342804s)
+[2023.12.04-23.03.55:477][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.03.55:477][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.03.55:478][616]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.03.55:482][616]LogPlayLevel: PIE: World Init took: (0.004455s)
+[2023.12.04-23.03.55:513][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.04-23.03.55:516][616]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.03.55:516][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.03.55:516][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.03.55:516][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.03.55:516][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.03.55:516][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.03.55:518][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.03.55:527][616]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.03.55:527][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.03.55:527][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.03.55:527][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.03.55:529][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.12.04-23.03.55:529][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.12.04-23.03.55:530][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.12.04-23.03.55:530][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.12.04-23.03.55:530][616]LogInit: FAudioDevice initialized with ID 19.
+[2023.12.04-23.03.55:530][616]LogAudio: Display: Audio Device (ID: 19) registered with world 'DemoMapDay'.
+[2023.12.04-23.03.55:530][616]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.04-23.03.55:537][616]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.03.55:791][616]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.03.55
+[2023.12.04-23.03.55:798][616]LogWorld: Bringing up level for play took: 0.260101
+[2023.12.04-23.03.55:799][616]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.12.04-23.03.55:818][616]PIE: Server logged in
+[2023.12.04-23.03.55:818][616]PIE: Play in editor total start time 1.71 seconds.
+[2023.12.04-23.04.24:645][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.04.24:645][910]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.04.24:650][910]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.04.24:686][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.04.24:696][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.04.24:707][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.04.24:767][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.04.24:796][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.04-23.04.24:796][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.04-23.04.24:798][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.04-23.04.24:852][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.04-23.04.24:987][911]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.12.04-23.05.10:676][317]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.05.10:771][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.12.04-23.05.11:851][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.05.11:856][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.05.11:856][390]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:05:11 AM)
+[2023.12.04-23.05.11:856][390]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.05.13:180][390]LogPlayLevel: PIE: StaticDuplicateObject took: (1.324394s)
+[2023.12.04-23.05.13:180][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.324420s)
+[2023.12.04-23.05.13:180][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.05.13:180][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.05.13:181][390]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.05.13:185][390]LogPlayLevel: PIE: World Init took: (0.004481s)
+[2023.12.04-23.05.13:230][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.04-23.05.13:234][390]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.05.13:234][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.05.13:234][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.05.13:234][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.05.13:234][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.05.13:234][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.05.13:236][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.05.13:246][390]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.05.13:246][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.05.13:246][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.05.13:246][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.05.13:247][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.12.04-23.05.13:247][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.12.04-23.05.13:248][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.12.04-23.05.13:248][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.12.04-23.05.13:248][390]LogInit: FAudioDevice initialized with ID 20.
+[2023.12.04-23.05.13:248][390]LogAudio: Display: Audio Device (ID: 20) registered with world 'DemoMapDay'.
+[2023.12.04-23.05.13:248][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.04-23.05.13:255][390]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.05.13:514][390]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.05.13
+[2023.12.04-23.05.13:521][390]LogWorld: Bringing up level for play took: 0.264980
+[2023.12.04-23.05.13:522][390]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.12.04-23.05.13:539][390]PIE: Server logged in
+[2023.12.04-23.05.13:540][390]PIE: Play in editor total start time 1.684 seconds.
+[2023.12.04-23.06.20:535][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.06.20:535][305]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.06.20:539][305]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.06.20:574][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.06.20:601][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.06.20:612][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.06.20:663][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.06.20:663][305]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.04-23.06.20:663][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.04-23.06.20:665][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.04-23.06.20:668][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.06.20:761][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.12.04-23.06.20:867][306]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.12.04-23.07.29:593][234]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.07.29:700][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.04-23.07.34:946][837]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.07.35:038][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.04-23.07.36:237][915]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.07.36:242][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.07.36:242][915]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:07:36 AM)
+[2023.12.04-23.07.36:275][915]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.07.37:621][915]LogPlayLevel: PIE: StaticDuplicateObject took: (1.345773s)
+[2023.12.04-23.07.37:621][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.345803s)
+[2023.12.04-23.07.37:621][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.07.37:621][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.07.37:621][915]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.07.37:625][915]LogPlayLevel: PIE: World Init took: (0.004389s)
+[2023.12.04-23.07.37:652][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.04-23.07.37:655][915]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.07.37:655][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.07.37:655][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.07.37:655][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.07.37:655][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.07.37:655][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.07.37:657][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.07.37:666][915]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.07.37:666][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.07.37:666][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.07.37:666][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.07.37:667][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.12.04-23.07.37:667][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.12.04-23.07.37:668][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.12.04-23.07.37:668][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.12.04-23.07.37:668][915]LogInit: FAudioDevice initialized with ID 21.
+[2023.12.04-23.07.37:668][915]LogAudio: Display: Audio Device (ID: 21) registered with world 'DemoMapDay'.
+[2023.12.04-23.07.37:668][915]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.12.04-23.07.37:675][915]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.07.37:931][915]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.07.37
+[2023.12.04-23.07.37:938][915]LogWorld: Bringing up level for play took: 0.262260
+[2023.12.04-23.07.37:939][915]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.12.04-23.07.37:956][915]PIE: Server logged in
+[2023.12.04-23.07.37:956][915]PIE: Play in editor total start time 1.714 seconds.
+[2023.12.04-23.08.11:330][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.08.11:331][755]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.08.11:335][755]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.08.11:371][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.08.11:398][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.08.11:409][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.08.11:495][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.08.11:496][755]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.12.04-23.08.11:497][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.12.04-23.08.11:498][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.12.04-23.08.11:501][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.08.11:564][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.04-23.08.11:701][756]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.12.04-23.08.34:202][154]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.08.34:291][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.12.04-23.09.09:066][208]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.09.09:156][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.04-23.09.10:353][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.09.10:358][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.09.10:358][287]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:09:10 AM)
+[2023.12.04-23.09.10:400][287]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.09.11:745][287]LogPlayLevel: PIE: StaticDuplicateObject took: (1.344595s)
+[2023.12.04-23.09.11:745][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.344627s)
+[2023.12.04-23.09.11:745][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.09.11:745][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.09.11:745][287]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.09.11:749][287]LogPlayLevel: PIE: World Init took: (0.004474s)
+[2023.12.04-23.09.11:777][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.04-23.09.11:780][287]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.09.11:781][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.09.11:781][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.09.11:781][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.09.11:781][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.09.11:781][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.09.11:782][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.09.11:792][287]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.09.11:792][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.09.11:792][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.09.11:792][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.09.11:792][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.12.04-23.09.11:792][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.12.04-23.09.11:793][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.12.04-23.09.11:793][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.12.04-23.09.11:793][287]LogInit: FAudioDevice initialized with ID 22.
+[2023.12.04-23.09.11:793][287]LogAudio: Display: Audio Device (ID: 22) registered with world 'DemoMapDay'.
+[2023.12.04-23.09.11:793][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.04-23.09.11:801][287]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.09.12:065][287]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.09.12
+[2023.12.04-23.09.12:072][287]LogWorld: Bringing up level for play took: 0.271055
+[2023.12.04-23.09.12:073][287]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.12.04-23.09.12:090][287]PIE: Server logged in
+[2023.12.04-23.09.12:091][287]PIE: Play in editor total start time 1.733 seconds.
+[2023.12.04-23.09.54:665][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.09.54:666][263]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.09.54:671][263]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.09.54:707][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.09.54:737][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.09.54:749][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.09.54:805][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.09.54:805][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.04-23.09.54:805][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.04-23.09.54:807][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.04-23.09.54:809][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.09.54:889][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.04-23.09.55:015][264]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.12.04-23.12.47:748][733]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.12.47:845][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.12.04-23.15.17:129][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.04-23.15.20:221][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto5
+[2023.12.04-23.15.20:221][948]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay_Auto5A9072AB94B8AC82FE34D0CAA561881D4.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto5.umap'
+[2023.12.04-23.15.20:259][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay' took 3.162
+[2023.12.04-23.15.20:259][948]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.162
+[2023.12.04-23.15.20:259][948]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI] ([2] browsable assets)...
+[2023.12.04-23.15.20:279][948]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI]
+[2023.12.04-23.15.20:279][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI]
+[2023.12.04-23.15.20:287][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto5
+[2023.12.04-23.15.20:287][948]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI_Auto529F98FFF4B6B7891219969A64DC26752.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto5.uasset'
+[2023.12.04-23.15.20:287][948]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.12.04-23.15.41:626][171]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FlexibleCombatSystem/Widgets/WB_EnemyHealth.WB_EnemyHealth
+[2023.12.04-23.15.41:626][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.15.41:626][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.15.41:632][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.15.41:632][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.15.41:637][171]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.12.04-23.15.41:806][171]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.12.04-23.15.43:376][351]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.15.43:376][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.15.43:381][351]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.15.43:381][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.15.43:403][351]LogViewport: Scene viewport resized to 476x430, mode Windowed.
+[2023.12.04-23.15.43:420][352]LogViewport: Scene viewport resized to 476x427, mode Windowed.
+[2023.12.04-23.15.43:433][353]LogViewport: Scene viewport resized to 476x423, mode Windowed.
+[2023.12.04-23.15.43:446][354]LogViewport: Scene viewport resized to 476x421, mode Windowed.
+[2023.12.04-23.15.43:457][355]LogViewport: Scene viewport resized to 476x419, mode Windowed.
+[2023.12.04-23.15.43:469][356]LogViewport: Scene viewport resized to 476x416, mode Windowed.
+[2023.12.04-23.15.43:481][357]LogViewport: Scene viewport resized to 476x415, mode Windowed.
+[2023.12.04-23.15.43:492][358]LogViewport: Scene viewport resized to 476x412, mode Windowed.
+[2023.12.04-23.15.43:503][359]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.12.04-23.17.26:547][685]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.17.26:642][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.12.04-23.17.42:459][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FlexibleCombatSystem/Blueprints/AI/BP_EnemyAI.BP_EnemyAI
+[2023.12.04-23.17.42:459][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.17.42:459][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: ================================================
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: Total job queries 223, among them cache hits 47 (21.08%)
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: Tracking 176 distinct input hashes that result in 149 distinct outputs (84.66%)
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: RAM used: 479.40 KiB of 1.60 GiB budget. Usage: 0.03%
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.04-23.17.42:681][191]LogShaderCompilers: Display: ================================================
+[2023.12.04-23.18.41:265][169]LogViewport: Scene viewport resized to 918x678, mode Windowed.
+[2023.12.04-23.19.51:118][507]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.04-23.19.51:118][507]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.04-23.20.39:156][791]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.04-23.21.28:333][623]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.21.28:430][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.04-23.21.37:998][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.12.04-23.21.37:998][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.21.37:998][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.26.59:899][ 53]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.27.00:022][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.12.04-23.29.21:131][275]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.29.21:137][275]LogBlueprint: Error: [AssetLog] C:\Users\Sreedhar Ramesh\Documents\GitHub\415FinalProject\FinalProject\Content\FlexibleCombatSystem\Blueprints\Kraken_Character\BP_KrakenAI.uasset: [Compiler] This blueprint (self) is not a BP_PlayerCharacter_C, therefore ' Target ' must have a connection.
+[2023.12.04-23.29.21:138][275]LogBlueprint: Error: [AssetLog] C:\Users\Sreedhar Ramesh\Documents\GitHub\415FinalProject\FinalProject\Content\FlexibleCombatSystem\Blueprints\Kraken_Character\BP_KrakenAI.uasset: [Compiler] Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.12.04-23.29.21:247][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.04-23.29.26:522][866]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.29.26:621][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.12.04-23.30.00:432][826]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.04-23.30.04:075][ 53]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.12.04-23.30.21:534][ 36]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.12.04-23.30.21:541][ 36]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.12.04-23.31.47:020][880]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.31.47:132][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.12.04-23.31.54:178][701]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.31.54:281][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.04-23.32.49:086][167]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.32.49:190][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.04-23.33.47:203][852]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.33.47:304][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.04-23.34.18:046][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.04-23.34.21:110][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto6
+[2023.12.04-23.34.21:111][579]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay_Auto675C91C274AB6E0C47F181AB17648412C.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto6.umap'
+[2023.12.04-23.34.21:147][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay' took 3.130
+[2023.12.04-23.34.21:147][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.130
+[2023.12.04-23.34.21:147][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI] ([2] browsable assets)...
+[2023.12.04-23.34.21:161][579]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI]
+[2023.12.04-23.34.21:161][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI]
+[2023.12.04-23.34.21:171][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto6
+[2023.12.04-23.34.21:171][579]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI_Auto6E996D4AF4B9A079B91DB398D0DCDE948.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/Autosaves/Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI_Auto6.uasset'
+[2023.12.04-23.34.21:171][579]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.12.04-23.34.30:401][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.12.04-23.34.30:426][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.12.04-23.34.31:365][482]LogSlate: Window 'Save Content' being destroyed
+[2023.12.04-23.34.31:375][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-23.34.31:472][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.12.04-23.34.34:460][482]LogSavePackage: Moving output files for package: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.04-23.34.34:460][482]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay49715F4D49655E9088852BA45A51F162.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/ModularGothicFantasyEnvironment/Maps/DemoMapDay.umap'
+[2023.12.04-23.34.34:501][482]LogFileHelpers: Saving map 'DemoMapDay' took 3.067
+[2023.12.04-23.34.34:510][482]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI
+[2023.12.04-23.34.34:511][482]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI284D083A46AE54A295DF4C8DC2EF8CDF.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.uasset'
+[2023.12.04-23.34.34:515][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.13 sec (total: 16.5 sec)
+[2023.12.04-23.34.34:553][482]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.04-23.34.34:553][482]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay
+[2023.12.04-23.34.34:553][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI
+[2023.12.04-23.34.36:452][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.34.36:457][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.34.36:457][649]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:34:36 AM)
+[2023.12.04-23.34.36:484][649]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.34.37:859][649]LogPlayLevel: PIE: StaticDuplicateObject took: (1.375121s)
+[2023.12.04-23.34.37:859][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.375153s)
+[2023.12.04-23.34.37:859][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.34.37:859][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.34.37:860][649]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.34.37:864][649]LogPlayLevel: PIE: World Init took: (0.004461s)
+[2023.12.04-23.34.37:893][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.04-23.34.37:897][649]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.34.37:897][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.34.37:897][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.34.37:897][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.34.37:897][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.34.37:897][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.34.37:899][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.34.37:908][649]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.34.37:909][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.34.37:909][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.34.37:909][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.34.37:910][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.12.04-23.34.37:910][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.12.04-23.34.37:910][649]LogInit: FAudioDevice initialized with ID 23.
+[2023.12.04-23.34.37:910][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.12.04-23.34.37:910][649]LogAudio: Display: Audio Device (ID: 23) registered with world 'DemoMapDay'.
+[2023.12.04-23.34.37:910][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.12.04-23.34.37:910][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.12.04-23.34.37:918][649]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.34.38:188][649]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.34.38
+[2023.12.04-23.34.38:194][649]LogWorld: Bringing up level for play took: 0.275971
+[2023.12.04-23.34.38:196][649]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.12.04-23.34.38:213][649]PIE: Server logged in
+[2023.12.04-23.34.38:214][649]PIE: Play in editor total start time 1.757 seconds.
+[2023.12.04-23.35.16:744][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.35.16:744][ 71]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.35.16:749][ 71]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.35.16:787][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.35.16:797][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.35.16:809][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.35.16:861][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.35.16:884][ 71]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.12.04-23.35.16:884][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.12.04-23.35.16:885][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.12.04-23.35.16:887][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.35.16:943][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.04-23.35.17:068][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.12.04-23.35.56:908][606]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.35.57:008][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.12.04-23.35.59:684][850]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.35.59:689][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.35.59:689][850]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:35:59 AM)
+[2023.12.04-23.35.59:720][850]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.36.01:103][850]LogPlayLevel: PIE: StaticDuplicateObject took: (1.384408s)
+[2023.12.04-23.36.01:103][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.384437s)
+[2023.12.04-23.36.01:103][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.36.01:103][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.36.01:104][850]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.36.01:108][850]LogPlayLevel: PIE: World Init took: (0.004416s)
+[2023.12.04-23.36.01:139][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.04-23.36.01:144][850]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.36.01:144][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.36.01:144][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.36.01:144][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.36.01:144][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.36.01:144][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.36.01:146][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.36.01:155][850]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.36.01:155][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.36.01:155][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.36.01:155][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.36.01:156][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.12.04-23.36.01:156][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.12.04-23.36.01:157][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.12.04-23.36.01:157][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.12.04-23.36.01:157][850]LogInit: FAudioDevice initialized with ID 24.
+[2023.12.04-23.36.01:157][850]LogAudio: Display: Audio Device (ID: 24) registered with world 'DemoMapDay'.
+[2023.12.04-23.36.01:157][850]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.12.04-23.36.01:164][850]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.36.01:423][850]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.36.01
+[2023.12.04-23.36.01:430][850]LogWorld: Bringing up level for play took: 0.265549
+[2023.12.04-23.36.01:432][850]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2023.12.04-23.36.01:451][850]PIE: Server logged in
+[2023.12.04-23.36.01:452][850]PIE: Play in editor total start time 1.763 seconds.
+[2023.12.04-23.36.36:139][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.36.36:139][845]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.36.36:144][845]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.36.36:180][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.36.36:216][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.36.36:229][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.36.36:304][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.36.36:304][845]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.12.04-23.36.36:304][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.12.04-23.36.36:305][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.12.04-23.36.36:308][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.36.36:375][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.12.04-23.36.36:511][846]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.12.04-23.37.32:167][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.37.32:172][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.37.32:172][856]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:37:32 AM)
+[2023.12.04-23.37.32:204][856]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.37.33:551][856]LogPlayLevel: PIE: StaticDuplicateObject took: (1.347450s)
+[2023.12.04-23.37.33:551][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.347482s)
+[2023.12.04-23.37.33:551][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.37.33:551][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.37.33:551][856]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.37.33:555][856]LogPlayLevel: PIE: World Init took: (0.004407s)
+[2023.12.04-23.37.33:606][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.12.04-23.37.33:615][856]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.37.33:615][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.37.33:615][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.37.33:615][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.37.33:615][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.37.33:615][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.37.33:617][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.37.33:626][856]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.37.33:626][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.37.33:627][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.37.33:627][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.37.33:627][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.12.04-23.37.33:627][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.12.04-23.37.33:628][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.12.04-23.37.33:628][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.12.04-23.37.33:628][856]LogInit: FAudioDevice initialized with ID 25.
+[2023.12.04-23.37.33:628][856]LogAudio: Display: Audio Device (ID: 25) registered with world 'DemoMapDay'.
+[2023.12.04-23.37.33:628][856]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.12.04-23.37.33:636][856]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.37.33:899][856]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.37.33
+[2023.12.04-23.37.33:906][856]LogWorld: Bringing up level for play took: 0.270049
+[2023.12.04-23.37.33:907][856]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.12.04-23.37.33:925][856]PIE: Server logged in
+[2023.12.04-23.37.33:925][856]PIE: Play in editor total start time 1.753 seconds.
+[2023.12.04-23.37.39:470][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.37.39:470][387]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.37.39:475][387]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.37.39:512][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.37.39:551][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.37.39:564][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.37.39:625][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.37.39:636][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.12.04-23.37.39:636][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.12.04-23.37.39:637][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.12.04-23.37.39:695][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.04-23.37.39:780][388]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.12.04-23.37.46:634][130]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.37.46:733][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.12.04-23.37.47:968][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.37.47:974][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.37.47:974][205]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:37:47 AM)
+[2023.12.04-23.37.47:990][205]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.37.49:335][205]LogPlayLevel: PIE: StaticDuplicateObject took: (1.345361s)
+[2023.12.04-23.37.49:335][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.345393s)
+[2023.12.04-23.37.49:335][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.37.49:335][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.37.49:335][205]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.37.49:340][205]LogPlayLevel: PIE: World Init took: (0.005179s)
+[2023.12.04-23.37.49:369][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.04-23.37.49:375][205]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.37.49:376][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.37.49:376][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.37.49:376][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.37.49:376][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.37.49:376][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.37.49:377][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.37.49:387][205]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.37.49:387][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.37.49:387][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.37.49:387][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.37.49:387][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.12.04-23.37.49:387][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.12.04-23.37.49:388][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.12.04-23.37.49:388][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.12.04-23.37.49:388][205]LogInit: FAudioDevice initialized with ID 26.
+[2023.12.04-23.37.49:388][205]LogAudio: Display: Audio Device (ID: 26) registered with world 'DemoMapDay'.
+[2023.12.04-23.37.49:388][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.12.04-23.37.49:396][205]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.37.49:666][205]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.37.49
+[2023.12.04-23.37.49:672][205]LogWorld: Bringing up level for play took: 0.276628
+[2023.12.04-23.37.49:674][205]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.12.04-23.37.49:692][205]PIE: Server logged in
+[2023.12.04-23.37.49:693][205]PIE: Play in editor total start time 1.719 seconds.
+[2023.12.04-23.38.18:554][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.38.18:554][523]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.38.18:559][523]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.38.18:595][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.38.18:631][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.38.18:643][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.38.18:687][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.38.18:687][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.12.04-23.38.18:687][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.12.04-23.38.18:689][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.12.04-23.38.18:691][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.38.18:783][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.12.04-23.38.18:906][524]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.12.04-23.38.23:875][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.12.04-23.38.23:906][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.12.04-23.38.26:179][884]LogSlate: Window 'Save Content' being destroyed
+[2023.12.04-23.38.31:443][420]LogEditorTransaction: Undo Remove Components
+[2023.12.04-23.38.31:541][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.31:779][423]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-23.38.31:897][423]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.32:041][424]LogEditorTransaction: Undo Edit Widget Class
+[2023.12.04-23.38.32:052][424]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.BP_KrakenAI_C_0.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.32:055][424]LogActorComponent: ~FComponentReregisterContext: (/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay:PersistentLevel.BP_KrakenAI_C_1.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.32:058][424]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_30:PersistentLevel.BP_KrakenAI_C_0.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.32:161][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.32:287][425]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.32:376][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.32:792][462]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.32:884][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.33:023][467]LogEditorTransaction: Undo Rename Component Variable
+[2023.12.04-23.38.33:033][467]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.BP_KrakenAI_C_0.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.33:036][467]LogActorComponent: ~FComponentReregisterContext: (/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay:PersistentLevel.BP_KrakenAI_C_1.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.33:039][467]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_30:PersistentLevel.BP_KrakenAI_C_0.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.33:133][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.33:265][471]LogEditorTransaction: Undo Add Component
+[2023.12.04-23.38.33:389][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.33:509][473]LogEditorTransaction: Undo Edit Health
+[2023.12.04-23.38.33:518][473]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.BP_KrakenAI_C_0.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.33:520][473]LogActorComponent: ~FComponentReregisterContext: (/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay:PersistentLevel.BP_KrakenAI_C_1.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.33:523][473]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_30:PersistentLevel.BP_KrakenAI_C_0.CharacterMesh0) Component already registered.
+[2023.12.04-23.38.33:630][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.33:754][474]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.33:839][474]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.33:948][475]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.34:058][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.34:068][475]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.34:142][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.34:643][505]LogEditorTransaction: Undo Change Number Pin Value
+[2023.12.04-23.38.34:756][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.34:866][506]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.34:983][506]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.35:110][507]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.35:218][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.35:343][508]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-23.38.35:449][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.35:459][508]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-23.38.35:530][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.35:769][509]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.35:879][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.35:911][509]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.35:983][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.36:619][546]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.36:727][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.36:848][547]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-23.38.36:958][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.37:089][548]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.37:200][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.37:327][549]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.37:435][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.37:446][549]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.37:519][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.37:758][550]LogEditorTransaction: Undo Change Parameter Type
+[2023.12.04-23.38.37:877][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.37:887][550]LogEditorTransaction: Undo Rename Variable
+[2023.12.04-23.38.37:969][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.38:208][551]LogEditorTransaction: Undo Add Variable
+[2023.12.04-23.38.38:325][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.38:334][551]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.38:405][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.38:415][551]LogEditorTransaction: Undo Change Number Pin Value
+[2023.12.04-23.38.38:486][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.38:835][552]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.38:944][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.38:954][552]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.39:024][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.39:769][612]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.39:875][612]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.39:984][613]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.40:090][613]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.40:244][617]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.40:349][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.40:463][619]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.40:570][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.40:696][622]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.40:801][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.40:940][627]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.41:045][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.41:155][628]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.41:261][628]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.41:418][633]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.41:523][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.41:748][635]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.41:853][635]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.42:031][639]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.42:137][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.42:291][644]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.42:403][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.42:513][645]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.42:619][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.42:742][646]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.42:847][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.42:970][647]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.43:076][647]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.43:198][648]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.43:304][648]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.43:426][649]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.43:531][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.43:654][650]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.43:757][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.43:881][651]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.38.43:984][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.44:108][652]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.44:211][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.44:221][652]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.44:296][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.45:011][708]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-23.38.45:114][708]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.45:315][719]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.45:420][719]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.45:629][732]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.38.45:733][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.45:892][738]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.45:996][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.46:169][746]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.46:272][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.46:482][748]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.38.46:596][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.46:836][757]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.46:941][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.52:905][460]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.52:986][460]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.53:468][469]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.53:561][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.54:001][510]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.54:086][510]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.54:500][548]LogEditorTransaction: Undo Modify Component Scale
+[2023.12.04-23.38.54:583][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.55:594][655]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.55:679][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.56:594][753]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.56:679][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.57:086][790]LogEditorTransaction: Undo Modify Component(s)
+[2023.12.04-23.38.57:170][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.57:969][839]LogEditorTransaction: Undo Add Component
+[2023.12.04-23.38.58:057][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.38.58:930][932]LogEditorTransaction: Undo Delete current selection
+[2023.12.04-23.38.59:042][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.00:342][ 73]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.39.00:454][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.02:268][278]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.02:368][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.03:706][390]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.03:808][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.04:919][508]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.05:023][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.05:683][575]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.05:784][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.06:269][620]LogEditorTransaction: Undo Rename Node
+[2023.12.04-23.39.06:369][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.12:255][271]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.39.12:368][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.12.04-23.39.13:596][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.39.13:601][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.39.13:601][346]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:39:13 AM)
+[2023.12.04-23.39.13:624][346]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.39.15:013][346]LogPlayLevel: PIE: StaticDuplicateObject took: (1.389053s)
+[2023.12.04-23.39.15:013][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.389083s)
+[2023.12.04-23.39.15:013][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.39.15:013][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.39.15:014][346]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.39.15:018][346]LogPlayLevel: PIE: World Init took: (0.004546s)
+[2023.12.04-23.39.15:048][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.04-23.39.15:054][346]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.39.15:054][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.39.15:054][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.39.15:055][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.39.15:055][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.39.15:055][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.39.15:057][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.39.15:066][346]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.39.15:066][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.39.15:066][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.39.15:066][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.39.15:067][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.12.04-23.39.15:067][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.12.04-23.39.15:068][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.12.04-23.39.15:068][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.12.04-23.39.15:068][346]LogInit: FAudioDevice initialized with ID 27.
+[2023.12.04-23.39.15:068][346]LogAudio: Display: Audio Device (ID: 27) registered with world 'DemoMapDay'.
+[2023.12.04-23.39.15:068][346]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.12.04-23.39.15:075][346]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.39.15:338][346]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.39.15
+[2023.12.04-23.39.15:345][346]LogWorld: Bringing up level for play took: 0.269243
+[2023.12.04-23.39.15:346][346]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.12.04-23.39.15:364][346]PIE: Server logged in
+[2023.12.04-23.39.15:364][346]PIE: Play in editor total start time 1.764 seconds.
+[2023.12.04-23.39.41:179][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.39.41:180][297]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.39.41:185][297]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.39.41:220][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.39.41:256][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.39.41:268][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.39.41:334][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.39.41:344][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.12.04-23.39.41:344][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.12.04-23.39.41:346][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.12.04-23.39.41:348][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.39.41:406][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.12.04-23.39.41:533][298]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.12.04-23.39.44:148][539]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.39.44:237][539]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.45:378][627]LogEditorTransaction: Undo Rename Node
+[2023.12.04-23.39.45:480][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.45:941][668]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.39.46:055][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.46:591][717]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.46:689][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.47:226][767]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.47:325][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.48:016][835]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.48:117][835]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.49:410][944]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.39.49:510][944]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.52:054][236]LogEditorTransaction: Undo Break Pin Links
+[2023.12.04-23.39.52:153][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.52:776][265]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.52:876][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.53:313][304]LogEditorTransaction: Undo Create Pin Link
+[2023.12.04-23.39.53:412][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.53:879][346]LogEditorTransaction: Undo Add Node
+[2023.12.04-23.39.53:979][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.55:640][532]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.55:739][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.56:366][592]LogEditorTransaction: Undo Resize Node
+[2023.12.04-23.39.56:466][592]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.39.57:343][649]LogEditorTransaction: Undo Move Node
+[2023.12.04-23.39.57:444][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.04-23.40.07:408][829]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.40.07:509][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.04-23.40.08:799][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.40.08:804][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.40.08:804][904]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:40:08 AM)
+[2023.12.04-23.40.08:833][904]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.40.10:175][904]LogPlayLevel: PIE: StaticDuplicateObject took: (1.341732s)
+[2023.12.04-23.40.10:175][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.341764s)
+[2023.12.04-23.40.10:175][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.40.10:175][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.40.10:175][904]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.40.10:179][904]LogPlayLevel: PIE: World Init took: (0.004446s)
+[2023.12.04-23.40.10:212][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.04-23.40.10:216][904]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.12.04-23.40.10:216][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.40.10:216][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.40.10:216][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.40.10:216][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.40.10:216][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.40.10:216][904]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.40.10:217][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.40.10:217][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.40.10:217][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.40.10:217][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.40.10:217][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.40.10:218][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.40.10:227][904]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.40.10:228][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.40.10:228][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.40.10:228][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.40.10:228][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.12.04-23.40.10:228][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.12.04-23.40.10:229][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.12.04-23.40.10:229][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.12.04-23.40.10:229][904]LogInit: FAudioDevice initialized with ID 28.
+[2023.12.04-23.40.10:229][904]LogAudio: Display: Audio Device (ID: 28) registered with world 'DemoMapDay'.
+[2023.12.04-23.40.10:229][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.04-23.40.10:237][904]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.40.10:497][904]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.40.10
+[2023.12.04-23.40.10:504][904]LogWorld: Bringing up level for play took: 0.267196
+[2023.12.04-23.40.10:506][904]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.12.04-23.40.10:523][904]PIE: Server logged in
+[2023.12.04-23.40.10:524][904]PIE: Play in editor total start time 1.72 seconds.
+[2023.12.04-23.40.41:014][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.40.41:014][355]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.40.41:019][355]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.40.41:051][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.40.41:077][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.40.41:095][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.40.41:153][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.40.41:154][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.04-23.40.41:154][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.04-23.40.41:156][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.04-23.40.41:245][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.12.04-23.40.41:360][356]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.12.04-23.42.07:940][512]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.42.08:041][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.04-23.42.09:156][579]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.42.09:162][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.42.09:162][579]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:42:09 AM)
+[2023.12.04-23.42.09:193][579]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.42.10:545][579]LogPlayLevel: PIE: StaticDuplicateObject took: (1.352234s)
+[2023.12.04-23.42.10:545][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.352264s)
+[2023.12.04-23.42.10:545][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.42.10:545][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.42.10:545][579]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.42.10:550][579]LogPlayLevel: PIE: World Init took: (0.004431s)
+[2023.12.04-23.42.10:578][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.04-23.42.10:584][579]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.42.10:584][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.42.10:584][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.42.10:584][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.42.10:584][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.42.10:584][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.42.10:586][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.42.10:595][579]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.42.10:595][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.42.10:595][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.42.10:595][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.42.10:596][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.12.04-23.42.10:596][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.12.04-23.42.10:596][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.12.04-23.42.10:596][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.12.04-23.42.10:596][579]LogInit: FAudioDevice initialized with ID 29.
+[2023.12.04-23.42.10:596][579]LogAudio: Display: Audio Device (ID: 29) registered with world 'DemoMapDay'.
+[2023.12.04-23.42.10:596][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.04-23.42.10:604][579]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.42.10:869][579]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.42.10
+[2023.12.04-23.42.10:876][579]LogWorld: Bringing up level for play took: 0.271406
+[2023.12.04-23.42.10:877][579]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.12.04-23.42.10:894][579]PIE: Server logged in
+[2023.12.04-23.42.10:895][579]PIE: Play in editor total start time 1.733 seconds.
+[2023.12.04-23.42.35:554][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.42.35:554][386]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.42.35:559][386]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.42.35:594][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.42.35:622][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.42.35:634][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.42.35:687][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.42.35:696][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.04-23.42.35:696][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.04-23.42.35:697][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.04-23.42.35:775][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.12.04-23.42.35:919][387]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.12.04-23.43.06:106][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.43.06:111][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.43.06:111][823]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:43:06 AM)
+[2023.12.04-23.43.06:112][823]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.43.07:454][823]LogPlayLevel: PIE: StaticDuplicateObject took: (1.342781s)
+[2023.12.04-23.43.07:454][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.342807s)
+[2023.12.04-23.43.07:454][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.43.07:454][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.43.07:455][823]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.43.07:459][823]LogPlayLevel: PIE: World Init took: (0.004380s)
+[2023.12.04-23.43.07:489][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.12.04-23.43.07:494][823]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.43.07:494][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.43.07:494][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.43.07:494][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.43.07:494][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.43.07:494][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.43.07:496][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.43.07:505][823]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.43.07:505][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.43.07:505][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.43.07:505][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.43.07:506][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.12.04-23.43.07:506][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.12.04-23.43.07:507][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.12.04-23.43.07:507][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.12.04-23.43.07:507][823]LogInit: FAudioDevice initialized with ID 30.
+[2023.12.04-23.43.07:507][823]LogAudio: Display: Audio Device (ID: 30) registered with world 'DemoMapDay'.
+[2023.12.04-23.43.07:507][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.04-23.43.07:514][823]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.43.07:777][823]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.43.07
+[2023.12.04-23.43.07:783][823]LogWorld: Bringing up level for play took: 0.268687
+[2023.12.04-23.43.07:785][823]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.12.04-23.43.07:802][823]PIE: Server logged in
+[2023.12.04-23.43.07:803][823]PIE: Play in editor total start time 1.692 seconds.
+[2023.12.04-23.43.29:248][213]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 957
+[2023.12.04-23.43.29:248][213]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ReceiveTick
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ExecuteUbergraph_BP_KrakenAI
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:UpdatePawnChase
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ExecuteUbergraph_BP_KrakenAI
+
+[2023.12.04-23.43.44:223][214]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 957
+[2023.12.04-23.43.44:223][214]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ReceiveTick
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ExecuteUbergraph_BP_KrakenAI
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:UpdatePawnChase
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ExecuteUbergraph_BP_KrakenAI
+
+[2023.12.04-23.43.49:121][214]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI without an associated node. The blueprint breakpoint has been removed
+[2023.12.04-23.43.49:121][214]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI without an associated node. The blueprint breakpoint has been removed
+[2023.12.04-23.43.52:000][312]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PlayAnimMontage', from offset 608
+[2023.12.04-23.43.52:000][312]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:OnSuccess_C7AEB66A4460AA85B8FC1FA95F4309EF
+	Function /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI_C:ExecuteUbergraph_BP_KrakenAI
+
+[2023.12.04-23.43.54:735][312]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI without an associated node. The blueprint breakpoint has been removed
+[2023.12.04-23.43.54:735][312]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI without an associated node. The blueprint breakpoint has been removed
+[2023.12.04-23.44.15:709][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.44.15:709][593]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.44.15:714][593]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.44.15:752][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.44.15:789][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.44.15:801][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.44.15:856][593]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.44.15:856][593]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.04-23.44.15:857][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.04-23.44.15:858][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.04-23.44.15:860][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.44.15:939][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.04-23.44.16:067][594]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.12.04-23.45.09:615][288]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.45.09:711][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.04-23.45.28:297][456]BlueprintLog: New page: Compile BP_KrakenAI
+[2023.12.04-23.45.28:413][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.04-23.45.29:849][529]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.04-23.45.29:854][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-23.45.29:854][529]PIE: New page: PIE session: DemoMapDay (Dec 4, 2023, 11:45:29 AM)
+[2023.12.04-23.45.29:854][529]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.45.31:198][529]LogPlayLevel: PIE: StaticDuplicateObject took: (1.344121s)
+[2023.12.04-23.45.31:198][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (1.344164s)
+[2023.12.04-23.45.31:199][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-23.45.31:199][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-23.45.31:199][529]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.04-23.45.31:203][529]LogPlayLevel: PIE: World Init took: (0.004623s)
+[2023.12.04-23.45.31:232][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.12.04-23.45.31:239][529]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-23.45.31:239][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-23.45.31:239][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-23.45.31:239][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-23.45.31:240][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-23.45.31:240][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-23.45.31:241][529]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-23.45.31:250][529]LogAudioMixer: Display: Using Audio Hardware Device Headset (Sreedhar's Buds2 Pro Hands-Free AG Audio)
+[2023.12.04-23.45.31:250][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-23.45.31:250][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-23.45.31:250][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-23.45.31:251][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.12.04-23.45.31:251][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.12.04-23.45.31:252][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.12.04-23.45.31:252][529]LogInit: FAudioDevice initialized with ID 31.
+[2023.12.04-23.45.31:252][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.12.04-23.45.31:252][529]LogAudio: Display: Audio Device (ID: 31) registered with world 'DemoMapDay'.
+[2023.12.04-23.45.31:252][529]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.04-23.45.31:260][529]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.04-23.45.31:523][529]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.04-17.45.31
+[2023.12.04-23.45.31:530][529]LogWorld: Bringing up level for play took: 0.270037
+[2023.12.04-23.45.31:532][529]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.12.04-23.45.31:549][529]PIE: Server logged in
+[2023.12.04-23.45.31:549][529]PIE: Play in editor total start time 1.695 seconds.
+[2023.12.04-23.46.04:963][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.46.04:964][314]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.04-23.46.04:969][314]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-23.46.05:005][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.46.05:016][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-23.46.05:032][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-23.46.05:097][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-23.46.05:097][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.04-23.46.05:098][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.04-23.46.05:099][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.04-23.46.05:102][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-23.46.05:167][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.12.04-23.46.05:292][315]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.12.04-23.46.09:672][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.12.04-23.46.09:700][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.12.04-23.46.11:406][638]LogSlate: Window 'Save Content' being destroyed
+[2023.12.04-23.46.11:413][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-23.46.11:518][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.12.04-23.46.14:600][638]LogSavePackage: Moving output files for package: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.04-23.46.14:600][638]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/DemoMapDay8D6066CA4DBB0FEAE30C54A4C030AC3D.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/ModularGothicFantasyEnvironment/Maps/DemoMapDay.umap'
+[2023.12.04-23.46.14:639][638]LogFileHelpers: Saving map 'DemoMapDay' took 3.178
+[2023.12.04-23.46.14:664][638]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI
+[2023.12.04-23.46.14:665][638]LogSavePackage: Moving '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Saved/BP_KrakenAI7DE6B8B943B93F211690B4A71BBC3C26.tmp' to '../../../../../../Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.uasset'
+[2023.12.04-23.46.14:668][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.25 sec (total: 19.8 sec)
+[2023.12.04-23.46.14:705][638]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.04-23.46.14:705][638]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay
+[2023.12.04-23.46.14:705][638]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FlexibleCombatSystem/Blueprints/Kraken_Character/BP_KrakenAI.BP_KrakenAI
