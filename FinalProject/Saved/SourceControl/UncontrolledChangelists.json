@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Epic Games/UE_Projs/415FinalProject/FinalProject/Content/ModularGothicFantasyEnvironment/Maps/DemoMapDay.umap",
+				"D:/Epic Games/UE_Projs/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/BP_Coin.uasset",
+				"D:/Epic Games/UE_Projs/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset",
 				"C:/Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/Sreedhar Ramesh/Documents/GitHub/415FinalProject/FinalProject/Content/ModularGothicFantasyEnvironment/Maps/DemoMapDay.umap",

@@ -6142,3 +6142,1328 @@ Script call stack:
 [2023.12.07-02.09.41:894][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.27 sec (total: 2:08 min)
 [2023.12.07-02.09.41:980][226]AssetCheck: New page: Asset Save: DemoMapDay
 [2023.12.07-02.09.41:980][226]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay
+[2023.12.07-02.13.22:264][ 43]LogDerivedDataCache: C:/Users/mnaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.123 and deleted 0 files with total size 0 MiB and 6 empty folders. Scanned 3235 files in 4565 folders with total size 609 MiB.
+[2023.12.07-02.15.49:442][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-02.15.49:525][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlexibleCombatSystem/Blueprints/BP_Coin" FILE="../../../../UE_Projs/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/BP_Coin.uasset" SILENT=true
+[2023.12.07-02.15.49:534][471]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Blueprints/BP_Coin
+[2023.12.07-02.15.49:534][471]LogSavePackage: Moving '../../../../UE_Projs/415FinalProject/FinalProject/Saved/BP_CoinBACFC40F45875B60C997F1AEEF456417.tmp' to '../../../../UE_Projs/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Blueprints/BP_Coin.uasset'
+[2023.12.07-02.15.49:543][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 2:08 min)
+[2023.12.07-02.15.49:557][471]AssetCheck: New page: Asset Save: BP_Coin
+[2023.12.07-02.15.49:557][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FlexibleCombatSystem/Blueprints/BP_Coin.BP_Coin
+[2023.12.07-02.16.53:288][917]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.07-02.16.53:289][917]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.07-02.17.40:943][ 19]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.07-03.13.21:315][245]LogDerivedDataCache: C:/Users/mnaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3235 files in 4559 folders with total size 609 MiB.
+[2023.12.07-04.13.22:282][ 46]LogDerivedDataCache: C:/Users/mnaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3235 files in 4559 folders with total size 609 MiB.
+[2023.12.07-05.01.57:117][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.12.07-05.01.57:118][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.01.57:118][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.01.58:168][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.03.18:890][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-05.03.18:901][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.03.18:901][995]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:03:18 PM)
+[2023.12.07-05.03.18:902][995]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.03.22:302][995]LogPlayLevel: PIE: StaticDuplicateObject took: (3.400383s)
+[2023.12.07-05.03.22:302][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.400467s)
+[2023.12.07-05.03.22:302][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.03.22:302][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.03.22:303][995]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.03.22:311][995]LogPlayLevel: PIE: World Init took: (0.008752s)
+[2023.12.07-05.03.22:904][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.12.07-05.03.22:909][995]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.03.22:909][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.03.22:909][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.03.22:909][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.03.22:909][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.03.22:909][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.03.22:912][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.03.22:939][995]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.03.22:940][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.03.22:940][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.03.22:940][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.03.22:941][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.07-05.03.22:942][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.07-05.03.22:943][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.07-05.03.22:943][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.07-05.03.22:944][995]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.07-05.03.22:944][995]LogAudio: Display: Audio Device (ID: 8) registered with world 'DemoMapDay'.
+[2023.12.07-05.03.22:944][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.07-05.03.22:959][995]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.03.24:037][995]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.03.24
+[2023.12.07-05.03.24:052][995]LogWorld: Bringing up level for play took: 1.091359
+[2023.12.07-05.03.24:054][995]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.12.07-05.03.24:115][995]PIE: Server logged in
+[2023.12.07-05.03.24:116][995]PIE: Play in editor total start time 5.216 seconds.
+[2023.12.07-05.03.25:002][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.25:003][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.25:003][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.25:004][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.25:005][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.25:005][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.25:006][995]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.03.55:696][583]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.12.07-05.03.55:712][583]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.07-05.03.55:731][583]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.07-05.04.00:723][827]Cmd: RestartLevel
+[2023.12.07-05.04.00:724][827]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.07-05.04.00:724][827]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.07-05.04.00:736][827]LogNet: Browse: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay?restart
+[2023.12.07-05.04.00:746][827]LogLoad: LoadMap: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.07-05.04.00:746][827]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.04.00:761][827]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.04.00:851][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.04.01:388][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.04.01:592][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.12.07-05.04.01:731][827]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.04.04:986][827]LogPlayLevel: PIE: StaticDuplicateObject took: (3.254979s)
+[2023.12.07-05.04.04:986][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.255054s)
+[2023.12.07-05.04.04:986][827]LogAudio: Display: Audio Device (ID: 8) registered with world 'DemoMapDay'.
+[2023.12.07-05.04.04:986][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.04.04:986][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.04.04:986][827]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.04.04:995][827]LogPlayLevel: PIE: World Init took: (0.008615s)
+[2023.12.07-05.04.04:997][827]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.04.05:709][827]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.04.05
+[2023.12.07-05.04.05:724][827]LogWorld: Bringing up level for play took: 0.726330
+[2023.12.07-05.04.05:856][827]LogLoad: Took 5.111175 seconds to LoadMap(/Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay)
+[2023.12.07-05.04.06:680][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:681][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:681][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:682][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:682][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:683][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:683][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.06:743][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.04.06:743][828]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.04.06:762][828]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.04.06:937][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.04.07:342][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.04.07:376][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.04.08:081][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.04.08:156][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.07-05.04.08:156][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.07-05.04.08:159][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.07-05.04.08:368][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.12.07-05.04.08:817][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:818][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:818][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:819][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:819][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:820][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:820][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.08:869][829]Cmd: SELECT NONE
+[2023.12.07-05.04.08:875][829]Cmd: SELECT NONE
+[2023.12.07-05.04.09:475][829]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.12.07-05.04.50:110][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-05.04.50:122][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.04.50:122][842]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:04:50 PM)
+[2023.12.07-05.04.50:122][842]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.04.53:393][842]LogPlayLevel: PIE: StaticDuplicateObject took: (3.270665s)
+[2023.12.07-05.04.53:393][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.270726s)
+[2023.12.07-05.04.53:393][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.04.53:393][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.04.53:393][842]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.04.53:401][842]LogPlayLevel: PIE: World Init took: (0.008421s)
+[2023.12.07-05.04.53:771][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.12.07-05.04.53:780][842]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.04.53:780][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.04.53:780][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.04.53:781][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.04.53:781][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.04.53:781][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.04.53:783][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.04.53:811][842]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.04.53:811][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.04.53:811][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.04.53:811][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.04.53:812][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.12.07-05.04.53:812][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.12.07-05.04.53:815][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.12.07-05.04.53:815][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.12.07-05.04.53:815][842]LogInit: FAudioDevice initialized with ID 9.
+[2023.12.07-05.04.53:815][842]LogAudio: Display: Audio Device (ID: 9) registered with world 'DemoMapDay'.
+[2023.12.07-05.04.53:815][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.07-05.04.53:828][842]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.04.54:862][842]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.04.54
+[2023.12.07-05.04.54:876][842]LogWorld: Bringing up level for play took: 1.047106
+[2023.12.07-05.04.54:878][842]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.12.07-05.04.54:917][842]PIE: Server logged in
+[2023.12.07-05.04.54:918][842]PIE: Play in editor total start time 4.796 seconds.
+[2023.12.07-05.04.55:641][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.55:642][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.55:642][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.55:643][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.55:643][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.55:644][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.04.55:644][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.23:284][403]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.12.07-05.05.23:284][403]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.07-05.05.23:284][403]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.07-05.05.29:008][757]Cmd: RestartLevel
+[2023.12.07-05.05.29:008][757]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.07-05.05.29:008][757]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.07-05.05.29:012][757]LogNet: Browse: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay?restart
+[2023.12.07-05.05.29:012][757]LogLoad: LoadMap: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.07-05.05.29:012][757]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.05.29:025][757]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.05.29:130][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.05.29:651][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.05.29:844][757]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2023.12.07-05.05.29:954][757]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.05.33:188][757]LogPlayLevel: PIE: StaticDuplicateObject took: (3.234644s)
+[2023.12.07-05.05.33:188][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.234713s)
+[2023.12.07-05.05.33:188][757]LogAudio: Display: Audio Device (ID: 9) registered with world 'DemoMapDay'.
+[2023.12.07-05.05.33:188][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.05.33:188][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.05.33:189][757]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.05.33:197][757]LogPlayLevel: PIE: World Init took: (0.008613s)
+[2023.12.07-05.05.33:199][757]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.05.33:880][757]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.05.33
+[2023.12.07-05.05.33:895][757]LogWorld: Bringing up level for play took: 0.695568
+[2023.12.07-05.05.33:936][757]LogLoad: Took 4.924341 seconds to LoadMap(/Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay)
+[2023.12.07-05.05.34:866][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.34:866][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.34:866][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.34:866][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.34:866][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.34:867][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.34:867][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.43:653][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.05.43:653][164]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.05.43:665][164]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.05.43:782][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.05.43:797][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.05.43:830][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.05.44:465][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.05.44:488][164]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.07-05.05.44:488][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.07-05.05.44:490][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.07-05.05.44:712][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.12.07-05.05.44:955][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:955][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:956][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:956][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:956][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:957][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:957][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.05.44:982][165]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.12.07-05.05.55:300][593]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FlexibleCombatSystem/Widgets/WB_DeathScreen.WB_DeathScreen
+[2023.12.07-05.05.55:300][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.05.55:300][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.05.55:319][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.05.55:319][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.06.33:024][885]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-05.06.33:478][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.33:478][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.33:479][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.33:479][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.33:479][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.33:480][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.33:480][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:114][191]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.12.07-05.06.46:334][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:334][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:335][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:335][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:336][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:336][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.06.46:337][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.07.37:970][917]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.07-05.08.05:993][747]LogShaderCompilers: Display: ================================================
+[2023.12.07-05.08.05:993][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.07-05.08.05:993][747]LogShaderCompilers: Display: Total job queries 3,408, among them cache hits 32 (0.94%)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Tracking 3,376 distinct input hashes that result in 2,315 distinct outputs (68.57%)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: RAM used: 10.79 MiB of 819.20 MiB budget. Usage: 1.32%
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Shaders Compiled: 3,371
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Jobs assigned 3,371, completed 3,371 (100.00%)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Average time worker was idle: 71.57 s
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Time job spent in pending queue: average 483.19 s, longest 1328.15 s
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Job execution time: average 36.09 s, max 214.87 s
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Job life time (pending + execution): average 519.28 s, max 1357.65
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1528.92 s
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Jobs were issued in 584 batches (only local compilation was used), average 5.77 jobs/batch
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Total thread time: 10,804.547 s
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Total thread preprocess time: 182.133 s
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Percentage time preprocessing: 1.69%
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Effective parallelization: 7.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 60.63 sec, max 60.63 sec, min 60.63 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 48.79 sec, max 169.61 sec, min 7.31 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 31.01 sec, max 78.58 sec, min 1.07 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 23.54 sec, max 95.67 sec, min 1.35 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 21.44 sec, max 21.44 sec, min 21.44 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.05% of total time (compiled  128 times, average 9.33 sec, max 18.70 sec, min 4.67 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.62% of total time (compiled  128 times, average 6.43 sec, max 21.23 sec, min 0.72 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.21% of total time (compiled  102 times, average 7.64 sec, max 17.93 sec, min 1.29 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 6.59% of total time (compiled   96 times, average 7.42 sec, max 22.12 sec, min 0.91 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.57% of total time (compiled  128 times, average 4.70 sec, max 12.43 sec, min 2.48 sec)
+[2023.12.07-05.08.05:994][747]LogShaderCompilers: Display: ================================================
+[2023.12.07-05.09.23:923][166]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-05.10.05:814][498]BlueprintLog: New page: Compile WB_DeathScreen
+[2023.12.07-05.10.06:851][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.12.07-05.10.09:487][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-05.10.09:551][575]LogSavePackage: Moving output files for package: /Game/FlexibleCombatSystem/Widgets/WB_DeathScreen
+[2023.12.07-05.10.09:551][575]LogSavePackage: Moving '../../../../UE_Projs/415FinalProject/FinalProject/Saved/WB_DeathScreen93518E8240B3790D8ED653A280909CFF.tmp' to '../../../../UE_Projs/415FinalProject/FinalProject/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset'
+[2023.12.07-05.10.09:576][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2:08 min)
+[2023.12.07-05.10.09:588][575]AssetCheck: New page: Asset Save: WB_DeathScreen
+[2023.12.07-05.10.09:589][575]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FlexibleCombatSystem/Widgets/WB_DeathScreen.WB_DeathScreen
+[2023.12.07-05.10.16:429][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-05.10.16:441][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.10.16:441][846]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:10:16 PM)
+[2023.12.07-05.10.16:441][846]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.10.19:698][846]LogPlayLevel: PIE: StaticDuplicateObject took: (3.256402s)
+[2023.12.07-05.10.19:698][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.256465s)
+[2023.12.07-05.10.19:698][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.10.19:698][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.10.19:699][846]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.10.19:707][846]LogPlayLevel: PIE: World Init took: (0.009151s)
+[2023.12.07-05.10.20:135][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.12.07-05.10.20:140][846]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.10.20:140][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.10.20:140][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.10.20:141][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.10.20:141][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.10.20:141][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.10.20:144][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.10.20:173][846]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.10.20:173][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.10.20:173][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.10.20:173][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.10.20:174][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.12.07-05.10.20:174][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.12.07-05.10.20:176][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.12.07-05.10.20:176][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.12.07-05.10.20:176][846]LogInit: FAudioDevice initialized with ID 10.
+[2023.12.07-05.10.20:176][846]LogAudio: Display: Audio Device (ID: 10) registered with world 'DemoMapDay'.
+[2023.12.07-05.10.20:176][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.07-05.10.20:190][846]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.10.21:189][846]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.10.21
+[2023.12.07-05.10.21:203][846]LogWorld: Bringing up level for play took: 1.011792
+[2023.12.07-05.10.21:205][846]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.12.07-05.10.21:258][846]PIE: Server logged in
+[2023.12.07-05.10.21:259][846]PIE: Play in editor total start time 4.818 seconds.
+[2023.12.07-05.10.22:254][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.22:254][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.22:255][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.22:256][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.22:256][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.22:257][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.22:257][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.43:493][927]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.12.07-05.10.43:493][927]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.07-05.10.43:493][927]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.07-05.10.47:969][203]Cmd: RestartLevel
+[2023.12.07-05.10.47:969][203]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.07-05.10.47:969][203]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.07-05.10.47:972][203]LogNet: Browse: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay?restart
+[2023.12.07-05.10.47:973][203]LogLoad: LoadMap: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.07-05.10.47:973][203]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.10.47:986][203]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.10.48:097][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.10.48:583][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.10.48:771][203]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2023.12.07-05.10.48:878][203]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.10.52:144][203]LogPlayLevel: PIE: StaticDuplicateObject took: (3.266464s)
+[2023.12.07-05.10.52:145][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.266530s)
+[2023.12.07-05.10.52:145][203]LogAudio: Display: Audio Device (ID: 10) registered with world 'DemoMapDay'.
+[2023.12.07-05.10.52:145][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.10.52:145][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.10.52:145][203]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.10.52:153][203]LogPlayLevel: PIE: World Init took: (0.008762s)
+[2023.12.07-05.10.52:156][203]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.10.52:852][203]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.10.52
+[2023.12.07-05.10.52:866][203]LogWorld: Bringing up level for play took: 0.709474
+[2023.12.07-05.10.52:906][203]LogLoad: Took 4.933452 seconds to LoadMap(/Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay)
+[2023.12.07-05.10.53:639][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.53:640][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.53:640][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.53:641][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.53:641][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.53:642][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.10.53:642][203]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.56:842][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.11.56:842][197]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.11.56:853][197]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.11.56:952][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.11.56:970][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.11.57:005][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.11.57:659][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.11.57:715][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.07-05.11.57:715][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.07-05.11.57:717][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.07-05.11.57:928][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.12.07-05.11.58:192][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:193][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:193][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:194][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:194][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:194][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:195][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.11.58:220][198]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.12.07-05.13.21:386][671]LogDerivedDataCache: C:/Users/mnaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.241 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3241 files in 4565 folders with total size 609 MiB.
+[2023.12.07-05.13.36:412][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.13.36:412][254]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:13:36 PM)
+[2023.12.07-05.13.36:412][254]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.13.39:679][254]LogPlayLevel: PIE: StaticDuplicateObject took: (3.266351s)
+[2023.12.07-05.13.39:679][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.266397s)
+[2023.12.07-05.13.39:679][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.13.39:679][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.13.39:679][254]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.13.39:687][254]LogPlayLevel: PIE: World Init took: (0.008697s)
+[2023.12.07-05.13.40:051][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.12.07-05.13.40:059][254]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.13.40:059][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.13.40:059][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.13.40:060][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.13.40:060][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.13.40:060][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.13.40:062][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.13.40:088][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.13.40:089][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.13.40:089][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.13.40:089][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.13.40:090][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.07-05.13.40:090][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.07-05.13.40:092][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.07-05.13.40:092][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.07-05.13.40:092][254]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.07-05.13.40:092][254]LogAudio: Display: Audio Device (ID: 11) registered with world 'DemoMapDay'.
+[2023.12.07-05.13.40:092][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.07-05.13.40:106][254]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.13.41:112][254]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.13.41
+[2023.12.07-05.13.41:125][254]LogWorld: Bringing up level for play took: 1.018970
+[2023.12.07-05.13.41:128][254]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.12.07-05.13.41:166][254]PIE: Server logged in
+[2023.12.07-05.13.41:167][254]PIE: Play in editor total start time 4.755 seconds.
+[2023.12.07-05.13.41:960][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.41:960][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.41:961][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.41:961][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.41:961][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.41:963][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.41:963][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.55:242][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.13.55:242][786]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.13.55:253][786]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.13.55:360][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.13.55:376][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.13.55:411][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.13.56:049][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.13.56:126][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.07-05.13.56:126][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.07-05.13.56:128][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.07-05.13.56:319][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.12.07-05.13.56:594][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:595][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:595][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:596][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:596][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:597][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:597][786]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.13.56:623][787]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.12.07-05.14.02:724][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.14.02:724][ 26]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:14:02 PM)
+[2023.12.07-05.14.02:724][ 26]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.14.05:953][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (3.228695s)
+[2023.12.07-05.14.05:953][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.228763s)
+[2023.12.07-05.14.05:953][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.14.05:953][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.14.05:953][ 26]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.14.05:961][ 26]LogPlayLevel: PIE: World Init took: (0.008554s)
+[2023.12.07-05.14.06:343][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.07-05.14.06:351][ 26]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.14.06:351][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.14.06:351][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.14.06:351][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.14.06:351][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.14.06:351][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.14.06:354][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.14.06:380][ 26]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.14.06:380][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.14.06:380][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.14.06:380][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.14.06:381][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.07-05.14.06:381][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.07-05.14.06:384][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.07-05.14.06:384][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.07-05.14.06:384][ 26]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.07-05.14.06:384][ 26]LogAudio: Display: Audio Device (ID: 12) registered with world 'DemoMapDay'.
+[2023.12.07-05.14.06:384][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.07-05.14.06:397][ 26]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.14.07:396][ 26]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.14.07
+[2023.12.07-05.14.07:409][ 26]LogWorld: Bringing up level for play took: 1.011577
+[2023.12.07-05.14.07:412][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.12.07-05.14.07:450][ 26]PIE: Server logged in
+[2023.12.07-05.14.07:451][ 26]PIE: Play in editor total start time 4.727 seconds.
+[2023.12.07-05.14.08:194][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.08:195][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.08:195][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.08:196][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.08:196][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.08:197][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.08:197][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.14:941][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.14.14:941][282]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.14.14:955][282]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.14.15:079][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.14.15:100][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.14.15:135][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.14.15:730][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.14.15:856][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.07-05.14.15:857][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.07-05.14.15:858][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.07-05.14.16:015][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.12.07-05.14.16:308][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:308][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:309][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:309][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:310][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:310][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:311][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.16:335][283]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.12.07-05.14.25:192][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.14.25:192][607]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:14:25 PM)
+[2023.12.07-05.14.25:192][607]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.14.28:433][607]LogPlayLevel: PIE: StaticDuplicateObject took: (3.241584s)
+[2023.12.07-05.14.28:433][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.241630s)
+[2023.12.07-05.14.28:433][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.14.28:433][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.14.28:434][607]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.14.28:442][607]LogPlayLevel: PIE: World Init took: (0.008768s)
+[2023.12.07-05.14.28:817][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.12.07-05.14.28:825][607]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.14.28:825][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.14.28:825][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.14.28:825][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.14.28:825][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.14.28:825][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.14.28:828][607]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.14.28:854][607]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.14.28:854][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.14.28:854][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.14.28:854][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.14.28:855][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.07-05.14.28:855][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.07-05.14.28:857][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.07-05.14.28:857][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.07-05.14.28:857][607]LogInit: FAudioDevice initialized with ID 13.
+[2023.12.07-05.14.28:857][607]LogAudio: Display: Audio Device (ID: 13) registered with world 'DemoMapDay'.
+[2023.12.07-05.14.28:857][607]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.07-05.14.28:872][607]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.14.29:877][607]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.14.29
+[2023.12.07-05.14.29:890][607]LogWorld: Bringing up level for play took: 1.017573
+[2023.12.07-05.14.29:893][607]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.12.07-05.14.29:932][607]PIE: Server logged in
+[2023.12.07-05.14.29:933][607]PIE: Play in editor total start time 4.742 seconds.
+[2023.12.07-05.14.30:742][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.30:743][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.30:743][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.30:744][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.30:744][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.30:745][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.30:745][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.54:432][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.14.54:432][700]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.14.54:442][700]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.14.54:553][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.14.54:570][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.14.54:604][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.14.55:196][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.14.55:290][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.07-05.14.55:290][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.07-05.14.55:292][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.07-05.14.55:496][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.12.07-05.14.55:745][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:745][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:746][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:746][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:747][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:747][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:747][700]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.14.55:772][701]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.12.07-05.15.46:811][345]LogViewport: Scene viewport resized to 643x393, mode Windowed.
+[2023.12.07-05.16.31:975][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.16.31:975][910]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:16:31 PM)
+[2023.12.07-05.16.31:975][910]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.16.35:204][910]LogPlayLevel: PIE: StaticDuplicateObject took: (3.229304s)
+[2023.12.07-05.16.35:204][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.229351s)
+[2023.12.07-05.16.35:204][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.16.35:204][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.16.35:205][910]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.16.35:213][910]LogPlayLevel: PIE: World Init took: (0.009104s)
+[2023.12.07-05.16.35:608][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.12.07-05.16.35:618][910]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.16.35:618][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.16.35:618][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.16.35:619][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.16.35:619][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.16.35:619][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.16.35:621][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.16.35:648][910]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.16.35:648][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.16.35:648][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.16.35:648][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.16.35:649][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.07-05.16.35:649][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.07-05.16.35:651][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.07-05.16.35:651][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.07-05.16.35:651][910]LogInit: FAudioDevice initialized with ID 14.
+[2023.12.07-05.16.35:651][910]LogAudio: Display: Audio Device (ID: 14) registered with world 'DemoMapDay'.
+[2023.12.07-05.16.35:652][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.07-05.16.35:666][910]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.16.36:694][910]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.16.36
+[2023.12.07-05.16.36:707][910]LogWorld: Bringing up level for play took: 1.041704
+[2023.12.07-05.16.36:710][910]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.12.07-05.16.36:750][910]PIE: Server logged in
+[2023.12.07-05.16.36:750][910]PIE: Play in editor total start time 4.775 seconds.
+[2023.12.07-05.16.37:472][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.16.37:472][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.16.37:473][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.16.37:473][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.16.37:473][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.16.37:474][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.16.37:474][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.00:991][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.17.00:991][127]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.17.01:002][127]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.17.01:108][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.17.01:125][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.17.01:160][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.17.02:039][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.17.02:040][127]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.07-05.17.02:040][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.07-05.17.02:042][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.07-05.17.02:047][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.17.02:263][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.12.07-05.17.02:527][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:527][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:528][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:528][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:528][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:529][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:529][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.17.02:555][128]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: ================================================
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: Total job queries 3,414, among them cache hits 32 (0.94%)
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: Tracking 3,381 distinct input hashes that result in 2,320 distinct outputs (68.62%)
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: RAM used: 10.80 MiB of 819.20 MiB budget. Usage: 1.32%
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: Shaders Compiled: 3,376
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: Jobs assigned 3,377, completed 3,376 (99.97%)
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: Average time worker was idle: 72.79 s
+[2023.12.07-05.17.41:009][674]LogShaderCompilers: Display: Time job spent in pending queue: average 482.33 s, longest 1328.15 s
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Job execution time: average 36.04 s, max 214.87 s
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Job life time (pending + execution): average 518.51 s, max 1357.65
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1534.44 s
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Jobs were issued in 590 batches (only local compilation was used), average 5.72 jobs/batch
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Total thread time: 10,808.705 s
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Total thread preprocess time: 182.726 s
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Percentage time preprocessing: 1.69%
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Effective parallelization: 7.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 60.63 sec, max 60.63 sec, min 60.63 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 48.79 sec, max 169.61 sec, min 7.31 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 31.01 sec, max 78.58 sec, min 1.07 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 23.54 sec, max 95.67 sec, min 1.35 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 21.44 sec, max 21.44 sec, min 21.44 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.05% of total time (compiled  128 times, average 9.33 sec, max 18.70 sec, min 4.67 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.61% of total time (compiled  128 times, average 6.43 sec, max 21.23 sec, min 0.72 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.21% of total time (compiled  102 times, average 7.64 sec, max 17.93 sec, min 1.29 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 6.59% of total time (compiled   96 times, average 7.42 sec, max 22.12 sec, min 0.91 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.56% of total time (compiled  128 times, average 4.70 sec, max 12.43 sec, min 2.48 sec)
+[2023.12.07-05.17.41:010][674]LogShaderCompilers: Display: ================================================
+[2023.12.07-05.18.43:458][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.18.43:458][178]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:18:43 PM)
+[2023.12.07-05.18.43:459][178]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.18.46:748][178]LogPlayLevel: PIE: StaticDuplicateObject took: (3.290118s)
+[2023.12.07-05.18.46:748][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.290173s)
+[2023.12.07-05.18.46:748][178]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.18.46:748][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.18.46:749][178]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.18.46:757][178]LogPlayLevel: PIE: World Init took: (0.008736s)
+[2023.12.07-05.18.47:150][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.12.07-05.18.47:159][178]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.18.47:159][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.18.47:159][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.18.47:159][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.18.47:159][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.18.47:159][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.18.47:162][178]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.18.47:217][178]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.18.47:217][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.18.47:217][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.18.47:217][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.18.47:218][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.07-05.18.47:218][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.07-05.18.47:220][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.07-05.18.47:220][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.07-05.18.47:220][178]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.07-05.18.47:220][178]LogAudio: Display: Audio Device (ID: 15) registered with world 'DemoMapDay'.
+[2023.12.07-05.18.47:220][178]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.07-05.18.47:234][178]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.18.48:236][178]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.18.48
+[2023.12.07-05.18.48:250][178]LogWorld: Bringing up level for play took: 1.015336
+[2023.12.07-05.18.48:253][178]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.12.07-05.18.48:298][178]PIE: Server logged in
+[2023.12.07-05.18.48:298][178]PIE: Play in editor total start time 4.84 seconds.
+[2023.12.07-05.18.49:232][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.49:233][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.49:233][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.49:234][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.49:234][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.49:235][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.49:235][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.57:312][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.18.57:312][574]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.18.57:323][574]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.18.57:423][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.18.57:439][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.18.57:474][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.18.58:107][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.18.58:193][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.07-05.18.58:193][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.07-05.18.58:194][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.07-05.18.58:373][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.12.07-05.18.58:646][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:647][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:647][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:648][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:648][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:649][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:649][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.18.58:698][575]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.12.07-05.19.24:963][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.12.07-05.19.33:885][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto5
+[2023.12.07-05.19.33:886][719]LogSavePackage: Moving '../../../../UE_Projs/415FinalProject/FinalProject/Saved/DemoMapDay_Auto578E1CF6B4D0F6A92C287A8AC4222F909.tmp' to '../../../../UE_Projs/415FinalProject/FinalProject/Saved/Autosaves/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay_Auto5.umap'
+[2023.12.07-05.19.34:080][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay' took 9.498
+[2023.12.07-05.19.34:080][719]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 9.498
+[2023.12.07-05.20.48:551][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.20.48:552][324]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:20:48 PM)
+[2023.12.07-05.20.48:572][324]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.20.51:945][324]LogPlayLevel: PIE: StaticDuplicateObject took: (3.373703s)
+[2023.12.07-05.20.51:945][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.373764s)
+[2023.12.07-05.20.51:945][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.20.51:945][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.20.51:946][324]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.20.51:954][324]LogPlayLevel: PIE: World Init took: (0.008755s)
+[2023.12.07-05.20.52:334][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.12.07-05.20.52:344][324]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.20.52:344][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.20.52:344][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.20.52:344][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.20.52:344][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.20.52:344][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.20.52:347][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.20.52:374][324]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.20.52:375][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.20.52:375][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.20.52:375][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.20.52:376][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.07-05.20.52:376][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.07-05.20.52:378][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.07-05.20.52:378][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.07-05.20.52:378][324]LogInit: FAudioDevice initialized with ID 16.
+[2023.12.07-05.20.52:378][324]LogAudio: Display: Audio Device (ID: 16) registered with world 'DemoMapDay'.
+[2023.12.07-05.20.52:378][324]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.07-05.20.52:392][324]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.20.53:413][324]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.20.53
+[2023.12.07-05.20.53:427][324]LogWorld: Bringing up level for play took: 1.033915
+[2023.12.07-05.20.53:430][324]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.12.07-05.20.53:468][324]PIE: Server logged in
+[2023.12.07-05.20.53:469][324]PIE: Play in editor total start time 4.918 seconds.
+[2023.12.07-05.20.54:230][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.20.54:231][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.20.54:232][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.20.54:232][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.20.54:233][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.20.54:233][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.20.54:234][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.20:752][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.21.20:752][740]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.21.20:763][740]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.21.20:872][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.21.20:888][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.21.20:923][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.21.21:564][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.21.21:649][740]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.07-05.21.21:649][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.07-05.21.21:651][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.07-05.21.21:821][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2023.12.07-05.21.22:082][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:082][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:083][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:083][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:084][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:084][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:085][740]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.22:110][741]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.12.07-05.21.35:022][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.21.35:022][204]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:21:35 PM)
+[2023.12.07-05.21.35:022][204]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.21.38:284][204]LogPlayLevel: PIE: StaticDuplicateObject took: (3.262028s)
+[2023.12.07-05.21.38:284][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.262080s)
+[2023.12.07-05.21.38:284][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.21.38:285][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.21.38:285][204]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.21.38:293][204]LogPlayLevel: PIE: World Init took: (0.008602s)
+[2023.12.07-05.21.38:660][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.12.07-05.21.38:668][204]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.21.38:668][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.21.38:668][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.21.38:669][204]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.21.38:669][204]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.21.38:669][204]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.21.38:671][204]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.21.38:697][204]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.21.38:698][204]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.21.38:698][204]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.21.38:698][204]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.21.38:699][204]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.12.07-05.21.38:699][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.12.07-05.21.38:701][204]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.12.07-05.21.38:701][204]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.12.07-05.21.38:701][204]LogInit: FAudioDevice initialized with ID 17.
+[2023.12.07-05.21.38:701][204]LogAudio: Display: Audio Device (ID: 17) registered with world 'DemoMapDay'.
+[2023.12.07-05.21.38:701][204]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.07-05.21.38:715][204]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.21.39:776][204]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.21.39
+[2023.12.07-05.21.39:791][204]LogWorld: Bringing up level for play took: 1.075349
+[2023.12.07-05.21.39:793][204]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.12.07-05.21.39:833][204]PIE: Server logged in
+[2023.12.07-05.21.39:834][204]PIE: Play in editor total start time 4.812 seconds.
+[2023.12.07-05.21.40:595][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.40:596][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.40:596][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.40:597][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.40:597][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.40:598][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.21.40:598][204]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.02:312][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.22.02:312][363]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.22.02:326][363]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.22.02:429][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.22.02:446][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.22.02:481][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.22.03:207][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.22.03:207][363]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.07-05.22.03:207][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.07-05.22.03:209][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.07-05.22.03:214][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.22.03:372][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.12.07-05.22.03:680][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:680][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:680][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:681][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:681][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:682][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:682][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.22.03:708][364]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.12.07-05.23.34:309][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.23.34:309][569]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:23:34 PM)
+[2023.12.07-05.23.34:332][569]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.23.37:597][569]LogPlayLevel: PIE: StaticDuplicateObject took: (3.265089s)
+[2023.12.07-05.23.37:597][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.265149s)
+[2023.12.07-05.23.37:597][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.23.37:597][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.23.37:597][569]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.23.37:605][569]LogPlayLevel: PIE: World Init took: (0.008676s)
+[2023.12.07-05.23.37:990][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.12.07-05.23.37:998][569]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.23.37:998][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.23.37:998][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.23.37:998][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.23.37:998][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.23.37:998][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.23.38:001][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.23.38:027][569]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.23.38:028][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.23.38:028][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.23.38:028][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.23.38:028][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.12.07-05.23.38:028][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.12.07-05.23.38:031][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.12.07-05.23.38:031][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.12.07-05.23.38:031][569]LogInit: FAudioDevice initialized with ID 18.
+[2023.12.07-05.23.38:031][569]LogAudio: Display: Audio Device (ID: 18) registered with world 'DemoMapDay'.
+[2023.12.07-05.23.38:031][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.07-05.23.38:044][569]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.23.39:044][569]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.23.39
+[2023.12.07-05.23.39:058][569]LogWorld: Bringing up level for play took: 1.013384
+[2023.12.07-05.23.39:061][569]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.12.07-05.23.39:101][569]PIE: Server logged in
+[2023.12.07-05.23.39:102][569]PIE: Play in editor total start time 4.793 seconds.
+[2023.12.07-05.23.39:838][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.23.39:838][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.23.39:839][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.23.39:839][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.23.39:840][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.23.39:840][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.23.39:841][569]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.08:082][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.24.08:082][ 63]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.24.08:092][ 63]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.24.08:194][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.24.08:210][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.24.08:245][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.24.08:911][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.24.08:956][ 63]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.07-05.24.08:956][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.07-05.24.08:958][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.07-05.24.08:964][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.24.09:152][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2023.12.07-05.24.09:384][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:385][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:385][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:386][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:386][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:387][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:387][ 63]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.09:413][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.12.07-05.24.44:630][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.24.44:630][266]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:24:44 PM)
+[2023.12.07-05.24.44:630][266]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.24.47:954][266]LogPlayLevel: PIE: StaticDuplicateObject took: (3.324554s)
+[2023.12.07-05.24.47:954][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.324600s)
+[2023.12.07-05.24.47:954][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.24.47:954][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.24.47:954][266]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.24.47:963][266]LogPlayLevel: PIE: World Init took: (0.009204s)
+[2023.12.07-05.24.48:358][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.12.07-05.24.48:371][266]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.24.48:371][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.24.48:371][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.24.48:372][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.24.48:372][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.24.48:372][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.24.48:374][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.24.48:400][266]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.24.48:400][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.24.48:400][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.24.48:400][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.24.48:401][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.12.07-05.24.48:418][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.12.07-05.24.48:418][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.12.07-05.24.48:418][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.12.07-05.24.48:418][266]LogInit: FAudioDevice initialized with ID 19.
+[2023.12.07-05.24.48:418][266]LogAudio: Display: Audio Device (ID: 19) registered with world 'DemoMapDay'.
+[2023.12.07-05.24.48:418][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.07-05.24.48:432][266]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.24.49:462][266]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.24.49
+[2023.12.07-05.24.49:476][266]LogWorld: Bringing up level for play took: 1.044205
+[2023.12.07-05.24.49:479][266]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.12.07-05.24.49:518][266]PIE: Server logged in
+[2023.12.07-05.24.49:519][266]PIE: Play in editor total start time 4.89 seconds.
+[2023.12.07-05.24.50:249][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.50:250][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.50:250][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.50:251][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.50:251][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.50:252][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.24.50:252][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.01:403][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.25.01:403][827]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.25.01:413][827]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.25.01:521][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.25.01:538][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.25.01:573][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.25.02:253][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.25.02:254][827]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.07-05.25.02:254][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.07-05.25.02:256][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.07-05.25.02:261][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.25.02:529][827]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2023.12.07-05.25.02:760][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:760][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:761][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:761][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:762][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:762][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:763][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.02:789][828]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.12.07-05.25.07:648][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.25.07:649][ 20]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:25:07 PM)
+[2023.12.07-05.25.07:649][ 20]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.25.10:917][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (3.268975s)
+[2023.12.07-05.25.10:917][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.269025s)
+[2023.12.07-05.25.10:917][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.25.10:917][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.25.10:918][ 20]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.25.10:926][ 20]LogPlayLevel: PIE: World Init took: (0.009132s)
+[2023.12.07-05.25.11:322][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.12.07-05.25.11:330][ 20]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.25.11:330][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.25.11:330][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.25.11:331][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.25.11:331][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.25.11:331][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.25.11:333][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.25.11:360][ 20]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.25.11:360][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.25.11:360][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.25.11:360][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.25.11:360][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.12.07-05.25.11:360][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.12.07-05.25.11:363][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.12.07-05.25.11:363][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.12.07-05.25.11:363][ 20]LogInit: FAudioDevice initialized with ID 20.
+[2023.12.07-05.25.11:363][ 20]LogAudio: Display: Audio Device (ID: 20) registered with world 'DemoMapDay'.
+[2023.12.07-05.25.11:363][ 20]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.07-05.25.11:377][ 20]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.25.12:418][ 20]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.25.12
+[2023.12.07-05.25.12:432][ 20]LogWorld: Bringing up level for play took: 1.054812
+[2023.12.07-05.25.12:435][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.12.07-05.25.12:475][ 20]PIE: Server logged in
+[2023.12.07-05.25.12:475][ 20]PIE: Play in editor total start time 4.827 seconds.
+[2023.12.07-05.25.13:223][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.13:223][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.13:224][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.13:224][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.13:224][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.13:225][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.25.13:225][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.34:481][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.26.34:481][176]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.26.34:492][176]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.26.34:600][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.26.34:617][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.26.34:653][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.26.35:385][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.26.35:440][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.07-05.26.35:440][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.07-05.26.35:442][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.07-05.26.35:681][176]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2023.12.07-05.26.35:947][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:947][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:948][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:948][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:949][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:949][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:950][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.26.35:991][177]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.12.07-05.29.22:851][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-05.29.22:862][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.29.22:862][545]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:29:22 PM)
+[2023.12.07-05.29.22:862][545]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.29.26:164][545]LogPlayLevel: PIE: StaticDuplicateObject took: (3.301258s)
+[2023.12.07-05.29.26:164][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.301311s)
+[2023.12.07-05.29.26:164][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.29.26:164][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.29.26:165][545]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.29.26:173][545]LogPlayLevel: PIE: World Init took: (0.008678s)
+[2023.12.07-05.29.26:513][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.12.07-05.29.26:521][545]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.29.26:521][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.29.26:521][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.29.26:522][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.29.26:522][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.29.26:522][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.29.26:524][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.29.26:551][545]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.29.26:551][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.29.26:551][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.29.26:551][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.29.26:552][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.12.07-05.29.26:552][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.12.07-05.29.26:554][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.12.07-05.29.26:554][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.12.07-05.29.26:554][545]LogInit: FAudioDevice initialized with ID 21.
+[2023.12.07-05.29.26:554][545]LogAudio: Display: Audio Device (ID: 21) registered with world 'DemoMapDay'.
+[2023.12.07-05.29.26:554][545]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.12.07-05.29.26:568][545]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.29.27:578][545]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.29.27
+[2023.12.07-05.29.27:591][545]LogWorld: Bringing up level for play took: 1.023179
+[2023.12.07-05.29.27:594][545]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.12.07-05.29.27:632][545]PIE: Server logged in
+[2023.12.07-05.29.27:633][545]PIE: Play in editor total start time 4.771 seconds.
+[2023.12.07-05.29.28:347][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.28:348][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.28:348][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.28:349][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.28:349][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.28:350][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.28:350][545]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.46:992][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.29.46:993][541]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.29.47:003][541]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.29.47:107][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.29.47:124][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.29.47:158][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.29.47:740][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.29.47:744][541]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.12.07-05.29.47:744][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.12.07-05.29.47:746][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.12.07-05.29.47:751][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.29.47:967][541]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2023.12.07-05.29.48:202][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:203][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:203][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:204][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:204][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:205][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:205][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.29.48:233][542]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.12.07-05.30.13:306][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-05.30.13:318][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.30.13:319][538]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:30:13 PM)
+[2023.12.07-05.30.13:408][538]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.30.16:734][538]LogPlayLevel: PIE: StaticDuplicateObject took: (3.327044s)
+[2023.12.07-05.30.16:734][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.327097s)
+[2023.12.07-05.30.16:735][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.30.16:735][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.30.16:735][538]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.30.16:743][538]LogPlayLevel: PIE: World Init took: (0.008912s)
+[2023.12.07-05.30.17:194][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.12.07-05.30.17:204][538]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.30.17:204][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.30.17:204][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.30.17:205][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.30.17:205][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.30.17:205][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.30.17:207][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.30.17:234][538]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.30.17:234][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.30.17:234][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.30.17:234][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.30.17:235][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.12.07-05.30.17:235][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.12.07-05.30.17:237][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.12.07-05.30.17:237][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.12.07-05.30.17:237][538]LogInit: FAudioDevice initialized with ID 22.
+[2023.12.07-05.30.17:237][538]LogAudio: Display: Audio Device (ID: 22) registered with world 'DemoMapDay'.
+[2023.12.07-05.30.17:237][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.07-05.30.17:252][538]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.30.18:278][538]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.30.18
+[2023.12.07-05.30.18:291][538]LogWorld: Bringing up level for play took: 1.039007
+[2023.12.07-05.30.18:294][538]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.12.07-05.30.18:333][538]PIE: Server logged in
+[2023.12.07-05.30.18:334][538]PIE: Play in editor total start time 5.016 seconds.
+[2023.12.07-05.30.19:168][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.30.19:168][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.30.19:169][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.30.19:169][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.30.19:170][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.30.19:170][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.30.19:170][538]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.57:142][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.37.57:142][983]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.37.57:153][983]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.37.57:261][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.37.57:279][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.37.57:315][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.37.58:168][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.37.58:168][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.12.07-05.37.58:168][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.07-05.37.58:170][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.12.07-05.37.58:176][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.37.58:347][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.12.07-05.37.58:678][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:678][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:679][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:679][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:680][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:680][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:681][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.37.58:695][984]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.12.07-05.38.01:182][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-05.38.01:194][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-05.38.01:194][ 85]PIE: New page: PIE session: DemoMapDay (Dec 6, 2023, 5:38:01 PM)
+[2023.12.07-05.38.01:195][ 85]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.38.04:526][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (3.331389s)
+[2023.12.07-05.38.04:526][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.331445s)
+[2023.12.07-05.38.04:526][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.38.04:526][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.38.04:527][ 85]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.38.04:536][ 85]LogPlayLevel: PIE: World Init took: (0.009572s)
+[2023.12.07-05.38.04:925][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.12.07-05.38.04:935][ 85]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-05.38.04:935][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-05.38.04:935][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-05.38.04:935][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-05.38.04:935][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-05.38.04:935][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-05.38.04:937][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-05.38.04:965][ 85]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EDIFIER R1700BTs Stereo)
+[2023.12.07-05.38.04:965][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-05.38.04:965][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-05.38.04:965][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-05.38.04:966][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.12.07-05.38.04:966][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.12.07-05.38.04:968][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.12.07-05.38.04:968][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.12.07-05.38.04:968][ 85]LogInit: FAudioDevice initialized with ID 23.
+[2023.12.07-05.38.04:968][ 85]LogAudio: Display: Audio Device (ID: 23) registered with world 'DemoMapDay'.
+[2023.12.07-05.38.04:968][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.12.07-05.38.04:982][ 85]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.38.06:006][ 85]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.38.06
+[2023.12.07-05.38.06:021][ 85]LogWorld: Bringing up level for play took: 1.038110
+[2023.12.07-05.38.06:023][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.12.07-05.38.06:062][ 85]PIE: Server logged in
+[2023.12.07-05.38.06:063][ 85]PIE: Play in editor total start time 4.869 seconds.
+[2023.12.07-05.38.06:792][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.06:792][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.06:793][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.06:793][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.06:794][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.06:794][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.06:795][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.27:510][ 77]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.12.07-05.38.27:510][ 77]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.07-05.38.27:510][ 77]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.07-05.38.33:038][399]Cmd: RestartLevel
+[2023.12.07-05.38.33:038][399]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.07-05.38.33:038][399]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.07-05.38.33:042][399]LogNet: Browse: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay?restart
+[2023.12.07-05.38.33:042][399]LogLoad: LoadMap: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.07-05.38.33:042][399]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.38.33:055][399]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.38.33:145][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.38.33:658][399]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-05.38.33:867][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.12.07-05.38.33:984][399]LogPlayLevel: Creating play world package: /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.38.37:307][399]LogPlayLevel: PIE: StaticDuplicateObject took: (3.322538s)
+[2023.12.07-05.38.37:307][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay to /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay (3.322607s)
+[2023.12.07-05.38.37:307][399]LogAudio: Display: Audio Device (ID: 23) registered with world 'DemoMapDay'.
+[2023.12.07-05.38.37:307][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-05.38.37:307][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-05.38.37:307][399]LogAIModule: Creating AISystem for world DemoMapDay
+[2023.12.07-05.38.37:317][399]LogPlayLevel: PIE: World Init took: (0.010283s)
+[2023.12.07-05.38.37:320][399]LogLoad: Game class is 'BP_GameModee_C'
+[2023.12.07-05.38.38:012][399]LogWorld: Bringing World /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay.DemoMapDay up for play (max tick rate 0) at 2023.12.06-23.38.38
+[2023.12.07-05.38.38:026][399]LogWorld: Bringing up level for play took: 0.706196
+[2023.12.07-05.38.38:068][399]LogLoad: Took 5.025731 seconds to LoadMap(/Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay)
+[2023.12.07-05.38.38:792][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.38:792][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.38:793][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.38:793][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.38:794][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.38:794][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.38.38:795][399]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.31:701][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.42.31:701][266]LogWorld: BeginTearingDown for /Game/ModularGothicFantasyEnvironment/Maps/UEDPIE_0_DemoMapDay
+[2023.12.07-05.42.31:713][266]LogWorld: UWorld::CleanupWorld for DemoMapDay, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-05.42.31:808][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.42.31:826][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-05.42.31:863][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-05.42.32:484][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-05.42.32:516][266]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.12.07-05.42.32:516][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.12.07-05.42.32:518][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.12.07-05.42.32:744][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.12.07-05.42.33:087][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:087][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:088][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:088][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:088][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:089][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:089][266]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.07-05.42.33:101][267]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.12.07-05.42.35:149][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-05.42.35:585][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.07-05.42.44:343][322]LogSavePackage: Moving output files for package: /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay
+[2023.12.07-05.42.44:343][322]LogSavePackage: Moving '../../../../UE_Projs/415FinalProject/FinalProject/Saved/DemoMapDay3B3EAB0A4951FFC6BCDAE3A882B932B6.tmp' to '../../../../UE_Projs/415FinalProject/FinalProject/Content/ModularGothicFantasyEnvironment/Maps/DemoMapDay.umap'
+[2023.12.07-05.42.44:683][322]LogFileHelpers: Saving map 'DemoMapDay' took 9.472
+[2023.12.07-05.42.44:793][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.64 sec (total: 2:18 min)
+[2023.12.07-05.42.45:087][322]AssetCheck: New page: Asset Save: DemoMapDay
+[2023.12.07-05.42.45:087][322]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularGothicFantasyEnvironment/Maps/DemoMapDay.DemoMapDay
